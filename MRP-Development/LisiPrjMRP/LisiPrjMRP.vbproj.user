@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastOpenVersion>8.0.50215</LastOpenVersion>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\C:\Program Files\Common Files\Crystal Decisions\2.7\Managed\;C:\Windows\assembly\</ReferencePath>
+    <PublishUrlHistory>\\srv115fs01\misdept\2-MRP-Development\Deployment\|\\srv115fs01\LisiMRP2013_SQL2012\|\\Srv115fs01\LisiMRPExe_Ver_2013\|\\Srv115fs01\LisiMRPExe2013_Ver_2013\|\\Srv115fs01\LisiMRPExe2010\</PublishUrlHistory>
+    <InstallUrlHistory>|\\Srv115fs01\LisiMRPExe\</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>\\srv115fs01\MISDept\|C:\Program Files %28x86%29\Microsoft SDKs\Windows\v7.0A\Bootstrapper\Packages\Crystal Reports for .NET Framework 4.0\en|C:\Program Files %28x86%29\Microsoft SDKs\Windows\v7.0A\Bootstrapper\Packages\vcredist_x86\en</BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Project</StartAction>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartProgram>
+    </StartProgram>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartAction>Project</StartAction>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartProgram>
+    </StartProgram>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>

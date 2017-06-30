@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="LisiPrjMRP.exe" version="1.0.0.580" publicKeyToken="6faa7b46d54f75b6" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LisiPrjMRP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LisiPrjMRP.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Interop.Excel" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Vbe.Interop" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="office" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LisiPrjMRP.exe" size="14974976">
+      <assemblyIdentity name="LisiPrjMRP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>vfAm8DiP3sjtYYHhT1DeE2JmXvs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LisiPrjMRP.exe.config" size="2408">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iE50QhMzQyx4HbKx8yPPEG2Mxeo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=OPEN\studor" issuerKeyHash="7e80c3ce7e41b2c64981714636f85d5a4e0c76ec" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ONeFfkQSPay4mRPpp6e8H4UJeJY=</DigestValue></Reference></SignedInfo><SignatureValue>TTsu7Js1xDkhQbFxtwWJtomIndUB2/JqZ+C15swqLwLYHemT7xWNCEEFqJdvDL1gnGsAqrZhgQEE2QldDYT0/FK8N+1putomFETo4o3pUACd14VOqDTrL4sXus/Tyv2nrPK+IKqEyvoxyQy4bgwU9gjtaGXPcYKfM3tNHM20Spw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nBgM09/aAlca2OnoTy2G2ViT4BYZUItglEhLRQt76qReTMrZLmuGSSWvMAdHHWOroGwF7E0VbPGbvOynfulqFOwrqCI5H/ZafjltRGofZLSJpD7ZnBasB8vQNt0qo0SsxawxblmiqI2QSk8wF13e/VPihfNLcaqR3BnpHOJEQy8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="967809851fbca7a7e91399b8ac3d12447e85d738" Description="" Url=""><as:assemblyIdentity name="LisiPrjMRP.exe" version="1.0.0.580" publicKeyToken="6faa7b46d54f75b6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=OPEN\studor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>+PE0X7d+38u4ikRuFq0TUvPNFlU=</DigestValue></Reference></SignedInfo><SignatureValue>ErEFI+n2hW/pXzD0mPnBfpDzmgOC4gXw10xIfGXI/ZOD8o+kJmjx2UUSRtNtt6X716e29m5suuYQxK898+rQItPes85nQ+pueC3MACnlkgXqwXsPCPqR4MBxmhYqhcdRrvQV9A5nB5HvniJjqf0V5XyIhFX31TuWNVysp+wWK3c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nBgM09/aAlca2OnoTy2G2ViT4BYZUItglEhLRQt76qReTMrZLmuGSSWvMAdHHWOroGwF7E0VbPGbvOynfulqFOwrqCI5H/ZafjltRGofZLSJpD7ZnBasB8vQNt0qo0SsxawxblmiqI2QSk8wF13e/VPihfNLcaqR3BnpHOJEQy8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASqgAwIBAgIQKH+UbI38wrJIlRPOxo600DAJBgUrDgMCHQUAMCExHzAdBgNVBAMeFgBPAFAARQBOAFwAcwB0AHUAZABvAHIwHhcNMTIwODI5MTcyMzQyWhcNMTMwODI5MjMyMzQyWjAhMR8wHQYDVQQDHhYATwBQAEUATgBcAHMAdAB1AGQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCcGAzT39oCVxrY6ehPLYbZWJPgFhlQi2CUSEtFC3vqpF5Mytkua4ZJJa8wB0cdY6ugbAXsTRVs8Zu87Kd+6WoU7CuoIjkf9lp+OW1Eah9ktImkPtmcFqwHy9A23SqjRKzFrDFuWaKojZBKTzAXXd79U+KF80txqpHcGekc4kRDLwIDAQABMAkGBSsOAwIdBQADgYEATc+KI71G2Ilq3OljpmHnEtK0PJoW6Kg0E+RFURmPl8VZrcWwcw6R2cCw1TOPk/SogBbzclXOfzCmak91pfUoMUgpC8pQvyrJkjx39w88FTl2sNluHVtl/E7mZ18jaEOmvAbQ2wOxWyw5Wov7kYPyn6O0lqIcEPBGiZM1Cooc3Yg=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LisiPrjMRP
+</name>
+</assembly>
+<members>
+<member name="P:LisiPrjMRP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources._9TzEn8oec_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.Button_Add_icon_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.Button_Add_icon_1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.csv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.EyeImg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.image1d">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.kiKn94ndT_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LisiPrjMRP.My.Resources.Resources.LAC_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LisiPrjMRP.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

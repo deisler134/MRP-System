@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:lstsuprec="http://LISI/lws/PPZ210MI/LstSupRec" xmlns:lstporderlines="http://LISI/lws/PPZ210MI/LstPOrderLines" xmlns:tns="http://LISI/lws/PPZ210MI" xmlns:mws="http://mws.intentia.net/mws2" xmlns:lstpurchorder="http://LISI/lws/PPZ210MI/LstPurchOrder" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:lstpurchordline="http://LISI/lws/PPZ210MI/LstPurchOrdLine" xmlns:lstreceipt="http://LISI/lws/PPZ210MI/LstReceipt" name="PPZ210MI" targetNamespace="http://LISI/lws/PPZ210MI" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>
+    <id>2C94A296-0156-0000-56BD-20D2BD28A48D</id>
+    <version>1.0</version>
+  </wsdl:documentation>
+  <wsdl:types>
+    <xsd:schema elementFormDefault="qualified" targetNamespace="http://LISI/lws/PPZ210MI/LstPOrderLines" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:annotation>
+        <xsd:documentation>Api: List Purchase orders Transaction: List Purchase orders lines</xsd:documentation>
+      </xsd:annotation>
+      <xsd:element name="LstPOrderLines" type="lstporderlines:LstPOrderLinesCollection" />
+      <xsd:complexType name="LstPOrderLinesCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstPOrderLinesItem" type="lstporderlines:LstPOrderLinesItem" />
+        </xsd:sequence>
+        <xsd:attribute default="100" name="maxRecords" type="xsd:int" use="optional" />
+      </xsd:complexType>
+      <xsd:complexType name="LstPOrderLinesItem">
+        <xsd:sequence>
+          <xsd:element name="Company" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element name="PurchaseOrder">
+            <xsd:annotation>
+              <xsd:documentation>Purchase Order (PUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="LstPOrderLinesResponse" type="lstporderlines:LstPOrderLinesResponseCollection" />
+      <xsd:complexType name="LstPOrderLinesResponseCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstPOrderLinesResponseItem" type="lstporderlines:LstPOrderLinesResponseItem" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="LstPOrderLinesResponseItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT1" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT1 (AIT1)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT2" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT2 (AIT2)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT3" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT3 (AIT3)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT4" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT4 (AIT4)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT5" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT5 (AIT5)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT6" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT6 (AIT6)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT7" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT7 (AIT7)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="CostCenter" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Cost Center (COCE)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Company" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ConfPurPrice" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Conf. pur. price (CPPR)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Discount" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Discount (DISC)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Facility" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Facility (FACI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ItemName" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Item Name (ITDS)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="30" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ItemNum" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Item Num (ITNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ChangeDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Change date (LMDT)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="NetSum" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Net Sum (LNAM)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="OrderedQuantity" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Ordered quantity (ORQA)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="OrderType" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Order type (ORTY)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="NumberOfPriceDecimalPlaces" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Number of price decimal places (PDCC)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="POLine" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>PO Line (PNLI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="POLineSubnumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>PO Line subnumber (PNLS)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PurchaseOrderNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Purchase Order number (PUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="UnitPrice" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Unit Price (PUPR)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="17" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StatusLow" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Status Low (PUSL)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StatusHigh" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Status High (PUST)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="UnitOfMesure" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Unit of mesure (PUUN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ReceivedQuantity" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Received quantity (RVQA)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="SupplierItemNum" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Supplier Item Num (SITE)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="30" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="SupplierPONum" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Supplier PO Num (SORN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="20" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Supplier" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Supplier (SUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="TaxCode" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Tax code (VTCD)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified" targetNamespace="http://LISI/lws/PPZ210MI/LstReceipt" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:annotation>
+        <xsd:documentation>Api: List Purchase orders Transaction: List Receipt OA Line</xsd:documentation>
+      </xsd:annotation>
+      <xsd:element name="LstReceipt" type="lstreceipt:LstReceiptCollection" />
+      <xsd:complexType name="LstReceiptCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstReceiptItem" type="lstreceipt:LstReceiptItem" />
+        </xsd:sequence>
+        <xsd:attribute default="100" name="maxRecords" type="xsd:int" use="optional" />
+      </xsd:complexType>
+      <xsd:complexType name="LstReceiptItem">
+        <xsd:sequence>
+          <xsd:element name="Company" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PONumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>PO Number (PUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="LineNumber" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Line number (PNLI)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="LineSubNumber" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Line sub number (PNLS)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="LstReceiptResponse" type="lstreceipt:LstReceiptResponseCollection" />
+      <xsd:complexType name="LstReceiptResponseCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstReceiptResponseItem" type="lstreceipt:LstReceiptResponseItem" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="LstReceiptResponseItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Company" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="InvoiceMatching" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Invoice matching (IMST)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="POLine" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>PO line (PNLI)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="POLineSubnumber" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>PO line subnumber (PNLS)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PurchaseOrderNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Purchase order Number (PUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PurchaseUnit" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Purchase Unit (PUUN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ReceptNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Recept number (REPN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="QuantityAltUnit" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Quantity (Alt unit) (RPQA)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="QuantityBaseUnit" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Quantity (base unit) (RPQT)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="DeliveryNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Delivery Number (SUDO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="20" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ReceptDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Recept date (TRDT)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified" targetNamespace="http://LISI/lws/PPZ210MI/LstSupRec" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:annotation>
+        <xsd:documentation>Api: List Purchase orders Transaction: List canceled receipts</xsd:documentation>
+      </xsd:annotation>
+      <xsd:element name="LstSupRec" type="lstsuprec:LstSupRecCollection" />
+      <xsd:complexType name="LstSupRecCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstSupRecItem" type="lstsuprec:LstSupRecItem" />
+        </xsd:sequence>
+        <xsd:attribute default="100" name="maxRecords" type="xsd:int" use="optional" />
+      </xsd:complexType>
+      <xsd:complexType name="LstSupRecItem">
+        <xsd:sequence>
+          <xsd:element name="Company" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element name="Division">
+            <xsd:annotation>
+              <xsd:documentation>Division (DIVI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="PONumber">
+            <xsd:annotation>
+              <xsd:documentation>PO Number (PUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="LineNumber" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Line number (PNLI)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="LineSubNumber" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Line sub number (PNLS)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="LstSupRecResponse" type="lstsuprec:LstSupRecResponseCollection" />
+      <xsd:complexType name="LstSupRecResponseCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstSupRecResponseItem" type="lstsuprec:LstSupRecResponseItem" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="LstSupRecResponseItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ReceptNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Recept number (REPN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified" targetNamespace="http://LISI/lws/PPZ210MI/LstPurchOrder" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:annotation>
+        <xsd:documentation>Api: List Purchase orders Transaction: List Purchase orders</xsd:documentation>
+      </xsd:annotation>
+      <xsd:element name="LstPurchOrder" type="lstpurchorder:LstPurchOrderCollection" />
+      <xsd:complexType name="LstPurchOrderCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstPurchOrderItem" type="lstpurchorder:LstPurchOrderItem" />
+        </xsd:sequence>
+        <xsd:attribute default="100" name="maxRecords" type="xsd:int" use="optional" />
+      </xsd:complexType>
+      <xsd:complexType name="LstPurchOrderItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Company" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Division" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Division (DIVI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StartDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Start date (FLMD)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="EndDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>End date (TLMD)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PageLastModificationDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Page Last Modification Date (PLMD)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PagePurchaseOrderNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Page Purchase Order Number (PPUN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="LstPurchOrderResponse" type="lstpurchorder:LstPurchOrderResponseCollection" />
+      <xsd:complexType name="LstPurchOrderResponseCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstPurchOrderResponseItem" type="lstpurchorder:LstPurchOrderResponseItem" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="LstPurchOrderResponseItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="GrossSum" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Gross Sum (BRAM)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Buyer" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Buyer (BUYE)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Company" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Currency" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Currency (CUCD)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Division" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Division (DIVI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Facility" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Facility (FACI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ChangeDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Change date (LMDT)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="NetSum" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Net Sum (NTAM)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="OrderDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Order date (PUDT)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PurchaseOrderNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Purchase Order number (PUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Requester" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Requester (PURS)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StatusLow" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Status Low (PUSL)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StatusHigh" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Status High (PUST)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Supplier" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Supplier (SUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema elementFormDefault="qualified" targetNamespace="http://LISI/lws/PPZ210MI/LstPurchOrdLine" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:annotation>
+        <xsd:documentation>Api: List Purchase orders Transaction: List Purchase orders lines</xsd:documentation>
+      </xsd:annotation>
+      <xsd:element name="LstPurchOrdLine" type="lstpurchordline:LstPurchOrdLineCollection" />
+      <xsd:complexType name="LstPurchOrdLineCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstPurchOrdLineItem" type="lstpurchordline:LstPurchOrdLineItem" />
+        </xsd:sequence>
+        <xsd:attribute default="100" name="maxRecords" type="xsd:int" use="optional" />
+      </xsd:complexType>
+      <xsd:complexType name="LstPurchOrdLineItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Company" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Division" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Division (DIVI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StartDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Start date (FLMD)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="EndDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>End date (TLMD)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PageLastModificationDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Page Last Modification Date (PLMD)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PagePurchaseOrderNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Page Purchase Order Number (PPUN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PagePOLine" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Page PO Line (PPLI)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PagePOLineSubnumber" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Page PO Line Subnumber (PPLS)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="LstPurchOrdLineResponse" type="lstpurchordline:LstPurchOrdLineResponseCollection" />
+      <xsd:complexType name="LstPurchOrdLineResponseCollection">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="LstPurchOrdLineResponseItem" type="lstpurchordline:LstPurchOrdLineResponseItem" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="LstPurchOrdLineResponseItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT1" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT1 (AIT1)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT2" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT2 (AIT2)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT3" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT3 (AIT3)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT4" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT4 (AIT4)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT5" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT5 (AIT5)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT6" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT6 (AIT6)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="AIT7" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>AIT7 (AIT7)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ChangeDate" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Change date (LMDT)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Company" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Company (CONO)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="CostCenter" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Cost Center (COCE)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="8" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Discount1" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Discount 1 (ODI1)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Discount2" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Discount 2 (ODI2)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Discount3" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Discount 3 (ODI3)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Facility" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Facility (FACI)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ItemName" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Item Name (ITDS)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="30" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ItemNum" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Item Num (ITNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="NetSum" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Net Sum (LNAM)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="OrderedQuantity" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Ordered quantity (ORQA)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="POLine" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>PO Line (PNLI)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="POLineSubnumber" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>PO Line subnumber (PNLS)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="PurchaseOrderNumber" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Purchase Order number (PUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="7" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="ReceivedQuantity" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Received quantity (RVQA)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StatusHigh" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Status High (PUST)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="StatusLow" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Status Low (PUSL)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="Supplier" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Supplier (SUNO)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="SupplierItemNum" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Supplier Item Num (SITE)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="30" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="SupplierPONum" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Supplier PO Num (SORN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="20" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="TaxCode" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Tax code (VTCD)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="UnitOfMesure" nillable="true">
+            <xsd:annotation>
+              <xsd:documentation>Unit of mesure (PUUN)</xsd:documentation>
+            </xsd:annotation>
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="3" />
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="UnitPrice" nillable="true" type="xsd:decimal">
+            <xsd:annotation>
+              <xsd:documentation>Unit Price (PUPR)</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema xmlns:tns="http://mws.intentia.net/mws2" elementFormDefault="qualified" targetNamespace="http://mws.intentia.net/mws2" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:element name="mws" type="tns:headerType" />
+      <xsd:complexType name="headerType">
+        <xsd:sequence>
+          <xsd:element name="user" type="xsd:string" />
+          <xsd:element name="password" type="xsd:string" />
+          <xsd:element name="company" nillable="true" type="xsd:integer" />
+          <xsd:element name="division" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="LstPOrderLines">
+    <wsdl:part name="LstPOrderLines" element="lstporderlines:LstPOrderLines" />
+  </wsdl:message>
+  <wsdl:message name="LstPOrderLinesResponse">
+    <wsdl:part name="LstPOrderLinesResponse" element="lstporderlines:LstPOrderLinesResponse" />
+  </wsdl:message>
+  <wsdl:message name="LstReceipt">
+    <wsdl:part name="LstReceipt" element="lstreceipt:LstReceipt" />
+  </wsdl:message>
+  <wsdl:message name="LstReceiptResponse">
+    <wsdl:part name="LstReceiptResponse" element="lstreceipt:LstReceiptResponse" />
+  </wsdl:message>
+  <wsdl:message name="LstSupRec">
+    <wsdl:part name="LstSupRec" element="lstsuprec:LstSupRec" />
+  </wsdl:message>
+  <wsdl:message name="LstSupRecResponse">
+    <wsdl:part name="LstSupRecResponse" element="lstsuprec:LstSupRecResponse" />
+  </wsdl:message>
+  <wsdl:message name="LstPurchOrder">
+    <wsdl:part name="LstPurchOrder" element="lstpurchorder:LstPurchOrder" />
+  </wsdl:message>
+  <wsdl:message name="LstPurchOrderResponse">
+    <wsdl:part name="LstPurchOrderResponse" element="lstpurchorder:LstPurchOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="LstPurchOrdLine">
+    <wsdl:part name="LstPurchOrdLine" element="lstpurchordline:LstPurchOrdLine" />
+  </wsdl:message>
+  <wsdl:message name="LstPurchOrdLineResponse">
+    <wsdl:part name="LstPurchOrdLineResponse" element="lstpurchordline:LstPurchOrdLineResponse" />
+  </wsdl:message>
+  <wsdl:message name="MwsHeader001">
+    <wsdl:part name="MwsHeader" element="mws:mws" />
+  </wsdl:message>
+  <wsdl:portType name="PPZ210MI">
+    <wsdl:operation name="LstPOrderLines">
+      <wsdl:input message="tns:LstPOrderLines" />
+      <wsdl:output message="tns:LstPOrderLinesResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="LstReceipt">
+      <wsdl:input message="tns:LstReceipt" />
+      <wsdl:output message="tns:LstReceiptResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="LstSupRec">
+      <wsdl:input message="tns:LstSupRec" />
+      <wsdl:output message="tns:LstSupRecResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="LstPurchOrder">
+      <wsdl:input message="tns:LstPurchOrder" />
+      <wsdl:output message="tns:LstPurchOrderResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="LstPurchOrdLine">
+      <wsdl:input message="tns:LstPurchOrdLine" />
+      <wsdl:output message="tns:LstPurchOrdLineResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PPZ210MISoapBinding" type="tns:PPZ210MI">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LstPOrderLines">
+      <soap:operation soapAction="LstPOrderLines" />
+      <wsdl:input>
+        <soap:body use="literal" parts="LstPOrderLines" />
+        <soap:header message="tns:MwsHeader001" part="MwsHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LstReceipt">
+      <soap:operation soapAction="LstReceipt" />
+      <wsdl:input>
+        <soap:body use="literal" parts="LstReceipt" />
+        <soap:header message="tns:MwsHeader001" part="MwsHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LstSupRec">
+      <soap:operation soapAction="LstSupRec" />
+      <wsdl:input>
+        <soap:body use="literal" parts="LstSupRec" />
+        <soap:header message="tns:MwsHeader001" part="MwsHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LstPurchOrder">
+      <soap:operation soapAction="LstPurchOrder" />
+      <wsdl:input>
+        <soap:body use="literal" parts="LstPurchOrder" />
+        <soap:header message="tns:MwsHeader001" part="MwsHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LstPurchOrdLine">
+      <soap:operation soapAction="LstPurchOrdLine" />
+      <wsdl:input>
+        <soap:body use="literal" parts="LstPurchOrdLine" />
+        <soap:header message="tns:MwsHeader001" part="MwsHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PPZ210MI">
+    <wsdl:port name="PPZ210MIPort" binding="tns:PPZ210MISoapBinding">
+      <soap:address location="http://172.20.34.135:10500/lwsD300/services/PPZ210MI" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,1574 @@
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\ResolveAssemblyReference.cache
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\Interop.Office.dll
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.ResolveComReference.cache
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.CrptPOAnalyzeSubContracting.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptAcctPayableSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByDeptAndEmpPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByEmpPeriode24Hrs.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByMpoPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByValMBOPeriode24Hrs.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustomerList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActive.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDateSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByMPODeliveryDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartAndDelDateProduction.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartNoMpoNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjBlanksTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsBlanksInventoryList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByLocation.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockQty.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvBlanksTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseBlanksTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFPInventoryListGroupByPartNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceByCustomerYD.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCust.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCustSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListNotPosted.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterial.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockQty.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialKSI.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiInvoice.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiMemo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiPslipCOC.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptListMatlPoReserv.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMatlLotNumber.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCodeRefOnly.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoCostAllElemByCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOMatlLotNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOOperationsCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartMasterListMpoLink.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccount.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSupplierSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOBySupp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByType.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOPriceCorrection.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOReceivingByPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProcessMethod.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProdMachLoad.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQADocumentControl.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteforPricingNew.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByCust.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOPrintAll.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOSupp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByPart.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlAdjTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlByOderPart.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranzAll.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlSeeTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContract.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContractAllWIPProdandEng.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatReceivigByPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatRecvTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesDelivReq.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLine.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLineALL.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopArticleTotalCycle.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDept.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptByValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptSummaryByValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSubContractListActiveNoInsp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSuppApprovedList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSupplierCycleDelivery.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetail.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByActualQty.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByMpoDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailWithCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subCustOrderForecastMPO.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subInvRawMatlKSI.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subMPOMatlLotNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subRptMatlLotNoInsp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccAddRMSPrice.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccPayable.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmBackLogAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCloseMonth.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostEstimation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustInvoiceAddress.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustomer.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustShippingAddress.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustUpdateBudget.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngApprMillList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngDWGSourceName.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngFinishSourceList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngUpdateRev.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPAdj.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPReleaseToMPO.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPSalesPriceUpdate.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotAdj.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotStockNotes.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderAssignDellivToMPO.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMaster.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccessByPart.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcess.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcGetOper.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcMpoSrc.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcSQL.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAddOperation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPODeptChange.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvInsp.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvTreatInsp.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAClasification.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAImportWordDoc.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAReadDocuments.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSelectDept.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmShopFloorControl.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.WKILL_frmEngMatlMaster.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngMatlType.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngRemarks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngSpecList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFinalInspection.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmInspReqList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiFormsControl.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoApp.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoSrc.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLogin.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMenu.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMPOGenfromOrder.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMpoSplitProd.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntry.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntryPutQuote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterDwgSource.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterQuote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccess.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMaster.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterPrint.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterSearchPO.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMatlReservation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPONote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOPrintAll.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOReceiving.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPORemarks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowseAll.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteEngEst.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteRemarks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRawMatlAdj.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmReleaseRawMaterial.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRMStockLocation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesDelivReq.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesForecast.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesInvoice.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesPSlip.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSupplier.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.WWWInternalForm.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.GenerateResource.Cache
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.config
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.pdb
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.xml
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Debug\Interop.Office.dll
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.Resources.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.xml
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.pdb
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByDateandKSI.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlPriceDepreciation.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.config
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.xml
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.pdb
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.manifest
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\bin\Debug\LisiPrjMRP.application
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\bin\Debug\LisiPrjMRP.pdb
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\bin\Debug\LisiPrjMRP.xml
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\bin\Debug\Interop.Office.dll
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\ResolveAssemblyReference.cache
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\Interop.Office.dll
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.ResolveComReference.cache
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.CrptPOAnalyzeSubContracting.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptAcctPayableSummary.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByDeptAndEmpPeriode.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByEmpPeriode24Hrs.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByMpoPeriode.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByValMBOPeriode24Hrs.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustomerList.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActive.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDate.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDateSummary.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDate.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNo.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateSummary.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByMPODeliveryDate.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartAndDelDateProduction.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartNoMpoNo.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjBlanksTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsBlanksInventoryList.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryList.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDate.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByLocation.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockQty.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockValue.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvBlanksTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseBlanksTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFPInventoryListGroupByPartNo.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceByCustomerYD.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceList.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCust.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCustSummary.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListNotPosted.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterial.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByDateandKSI.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockQty.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockValue.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialKSI.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiInvoice.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiMemo.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiPslipCOC.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptListMatlPoReserv.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMatlLotNumber.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCode.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCodeRefOnly.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCost.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoCostAllElem.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoCostAllElemByCustomer.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCostMatlSubContracting.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOMatlLotNo.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOOperationsCost.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartMasterListMpoLink.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccount.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSummary.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSupplierSummary.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOBySupp.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByType.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOPriceCorrection.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOReceivingByPeriode.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProcessMethod.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProdMachLoad.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQADocumentControl.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteforPricingNew.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByCust.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOPrintAll.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOSupp.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByPart.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteNo.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlAdjTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlByOderPart.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranzAll.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlSeeTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContract.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContractAllWIPProdandEng.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatReceivigByPeriode.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatRecvTranz.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesDelivReq.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLine.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLineALL.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopArticleTotalCycle.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDept.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptByValue.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptSummaryByValue.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSubContractListActiveNoInsp.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSuppApprovedList.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSupplierCycleDelivery.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetail.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByActualQty.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByMpoDate.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByValue.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailWithCost.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPSummary.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.subCustOrderForecastMPO.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.subInvRawMatlKSI.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.subMPOMatlLotNo.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.subRptMatlLotNoInsp.rpt
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccAddRMSPrice.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccPayable.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmBackLogAnalyze.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCloseMonth.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostBrowse.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostEstimation.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustInvoiceAddress.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustomer.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustShippingAddress.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustUpdateBudget.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngApprMillList.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngDWGSourceName.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngFinishSourceList.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngUpdateRev.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPAdj.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPReleaseToMPO.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPSalesPriceUpdate.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotAdj.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotStockNotes.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlPriceDepreciation.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMenu.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderAssignDellivToMPO.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMaster.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccessByPart.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcess.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcGetOper.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcMpoSrc.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcSQL.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAddOperation.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAnalyze.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPODeptChange.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterBrowse.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvInsp.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvTreatInsp.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAClasification.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAImportWordDoc.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAReadDocuments.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteAnalyze.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSelectDept.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmShopFloorControl.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.WKILL_frmEngMatlMaster.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngMatlType.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngRemarks.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngSpecList.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFinalInspection.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmInspReqList.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiFormsControl.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoApp.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoSrc.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLogin.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMPOGenfromOrder.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMpoSplitProd.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntry.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntryPutQuote.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterBrowse.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterDwgSource.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterQuote.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccess.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMaster.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterPrint.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterSearchPO.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMatlReservation.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPONote.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOPrintAll.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOReceiving.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPORemarks.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuote.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowse.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowseAll.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteEngEst.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteRemarks.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRawMatlAdj.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmReleaseRawMaterial.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRMStockLocation.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesDelivReq.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesForecast.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesInvoice.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesPSlip.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSupplier.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.WWWInternalForm.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.Resources.resources
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.GenerateResource.Cache
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.TrustInfo.xml
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe.manifest
+\\Srv115fs01\misdept\BackUpMRP Code\LisiPrjMRP\obj\Debug\LisiPrjMRP.application
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.config
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.manifest
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Debug\LisiPrjMRP.application
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Debug\LisiPrjMRP.pdb
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Debug\Interop.Office.dll
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\ResolveAssemblyReference.cache
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\Interop.Office.dll
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.ResolveComReference.cache
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.CrptPOAnalyzeSubContracting.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptAcctPayableSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByDeptAndEmpPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByEmpPeriode24Hrs.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByMpoPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByValMBOPeriode24Hrs.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustomerList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActive.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDateSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByMPODeliveryDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartAndDelDateProduction.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartNoMpoNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjBlanksTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsBlanksInventoryList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByLocation.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockQty.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvBlanksTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseBlanksTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFPInventoryListGroupByPartNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceByCustomerYD.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCust.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCustSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListNotPosted.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterial.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByDateandKSI.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockQty.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialKSI.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiInvoice.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiMemo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiPslipCOC.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptListMatlPoReserv.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMatlLotNumber.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCodeRefOnly.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCost.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoCostAllElem.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoCostAllElemByCustomer.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCostMatlSubContracting.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOMatlLotNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOOperationsCost.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartMasterListMpoLink.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccount.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSupplierSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOBySupp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByType.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOPriceCorrection.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOReceivingByPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProcessMethod.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProdMachLoad.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQADocumentControl.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteforPricingNew.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByCust.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOPrintAll.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOSupp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByPart.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlAdjTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlByOderPart.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranzAll.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlSeeTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContract.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContractAllWIPProdandEng.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatReceivigByPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatRecvTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesDelivReq.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLine.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLineALL.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopArticleTotalCycle.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDept.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptByValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptSummaryByValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSubContractListActiveNoInsp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSuppApprovedList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSupplierCycleDelivery.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetail.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByActualQty.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByMpoDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailWithCost.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.subCustOrderForecastMPO.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.subInvRawMatlKSI.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.subMPOMatlLotNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.subRptMatlLotNoInsp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccAddRMSPrice.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccPayable.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmBackLogAnalyze.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCloseMonth.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostEstimation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustInvoiceAddress.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustomer.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustShippingAddress.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustUpdateBudget.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngApprMillList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngDWGSourceName.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngFinishSourceList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngUpdateRev.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPAdj.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPReleaseToMPO.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPSalesPriceUpdate.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotAdj.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotStockNotes.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlPriceDepreciation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMenu.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderAssignDellivToMPO.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMaster.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccessByPart.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcess.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcGetOper.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcMpoSrc.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcSQL.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAddOperation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAnalyze.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPODeptChange.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvInsp.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvTreatInsp.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAClasification.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAImportWordDoc.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAReadDocuments.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteAnalyze.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSelectDept.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmShopFloorControl.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.WKILL_frmEngMatlMaster.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngMatlType.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngRemarks.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngSpecList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFinalInspection.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmInspReqList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiFormsControl.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoApp.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoSrc.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLogin.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMPOGenfromOrder.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMpoSplitProd.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntry.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntryPutQuote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterDwgSource.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterQuote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccess.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMaster.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterPrint.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterSearchPO.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMatlReservation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPONote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOPrintAll.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOReceiving.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPORemarks.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowseAll.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteEngEst.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteRemarks.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRawMatlAdj.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmReleaseRawMaterial.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRMStockLocation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesDelivReq.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesForecast.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesInvoice.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesPSlip.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSupplier.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.WWWInternalForm.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.Resources.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.GenerateResource.Cache
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.TrustInfo.xml
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe.manifest
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.application
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.pdb
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Release\LisiPrjMRP.exe.config
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Release\LisiPrjMRP.exe.manifest
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Release\LisiPrjMRP.application
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Release\LisiPrjMRP.exe
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Release\LisiPrjMRP.pdb
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Release\LisiPrjMRP.xml
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Release\Interop.Office.dll
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\ResolveAssemblyReference.cache
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\Interop.Office.dll
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.vbproj.ResolveComReference.cache
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.CrptPOAnalyzeSubContracting.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptAcctPayableSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByDeptAndEmpPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByEmpPeriode24Hrs.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByMpoPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByValMBOPeriode24Hrs.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustomerList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActive.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveBookingByOderDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveBookingByOderDateSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByMPODeliveryDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByPartAndDelDateProduction.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByPartNoMpoNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsAdjBlanksTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsAdjTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsBlanksInventoryList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByLocation.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByStockQty.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByStockValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsRecvBlanksTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsRecvTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsReleaseBlanksTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsReleaseTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFPInventoryListGroupByPartNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceByCustomerYD.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListByCust.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListByCustSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListNotPosted.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterial.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByDateandKSI.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByStockQty.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByStockValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialKSI.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiInvoice.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiMemo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiPslipCOC.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptListMatlPoReserv.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMatlLotNumber.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMFGMethodBarCode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMFGMethodBarCodeRefOnly.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOCost.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMpoCostAllElem.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMpoCostAllElemByCustomer.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOCostMatlSubContracting.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOMatlLotNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOOperationsCost.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPartMasterListMpoLink.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccount.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccountSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccountSupplierSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOBySupp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByType.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOPriceCorrection.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOReceivingByPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptProcessMethod.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptProdMachLoad.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQADocumentControl.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteforPricingNew.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteListByCust.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPOPrintAll.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPOSupp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteListByPart.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlAdjTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlByOderPart.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlRelTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlRelTranzAll.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlSeeTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlToContract.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlToContractAllWIPProdandEng.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatReceivigByPeriode.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatRecvTranz.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesDelivReq.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesForecastOnLine.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesForecastOnLineALL.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopArticleTotalCycle.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDept.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDeptByValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDeptSummaryByValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSubContractListActiveNoInsp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSuppApprovedList.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSupplierCycleDelivery.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetail.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByActualQty.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByMpoDate.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByValue.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailWithCost.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPSummary.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.subCustOrderForecastMPO.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.subInvRawMatlKSI.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.subMPOMatlLotNo.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.subRptMatlLotNoInsp.rpt
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccAddRMSPrice.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccPayable.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmBackLogAnalyze.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCloseMonth.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCostBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCostEstimation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustInvoiceAddress.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustomer.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustShippingAddress.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustUpdateBudget.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngApprMillList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngDWGSourceName.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngFinishSourceList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngUpdateRev.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPAdj.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPReleaseToMPO.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPSalesPriceUpdate.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlLotAdj.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlLotStockNotes.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlPriceDepreciation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMenu.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderAssignDellivToMPO.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMaster.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcAccessByPart.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcess.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcGetOper.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcMpoSrc.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcSQL.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOAddOperation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOAnalyze.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPODeptChange.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPoRecvInsp.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPoRecvTreatInsp.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAClasification.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAImportWordDoc.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAReadDocuments.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteAnalyze.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSelectDept.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmShopFloorControl.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.WKILL_frmEngMatlMaster.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngMatlType.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngRemarks.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngSpecList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFinalInspection.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmInspReqList.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiFormsControl.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiMemoApp.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiMemoSrc.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLogin.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMPOGenfromOrder.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMpoSplitProd.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderEntry.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderEntryPutQuote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterDwgSource.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterQuote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcAccess.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMaster.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterPrint.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterSearchPO.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMatlReservation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPONote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOPrintAll.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOReceiving.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPORemarks.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuote.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteBrowse.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteBrowseAll.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteEngEst.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteRemarks.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRawMatlAdj.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmReleaseRawMaterial.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRMStockLocation.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesDelivReq.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesForecast.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesInvoice.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesPSlip.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSupplier.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.WWWInternalForm.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.Resources.resources
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.vbproj.GenerateResource.Cache
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.TrustInfo.xml
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.exe.manifest
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.application
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.exe
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.xml
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Release\LisiPrjMRP.pdb
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\bin\Debug\LisiPrjMRP.xml
+\\Srv115fs01\misdept\LisiPrjMRP\LisiPrjMRP\obj\Debug\LisiPrjMRP.xml
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCostMachiningTime.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoActualQtyChg.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngMPOPlanedSplit.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRawMaterialAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMaterialActivePOList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListWithCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryListWithCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.KillrptMpoCostAllElem.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.KillrptMPOCostMatlSubContracting.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryListWithCostandPriceDepre.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmProductionAnalize.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateAndCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByMpoDateByCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByDeliveryDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumber.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.manifest
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.application
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.TrustInfo.xml
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe.manifest
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.application
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiPOTermsEnglish.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumberPriceSelection.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngBlankIndex.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmReleaseBlanks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngBlankDia.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlBRFSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartRefListWithBlanks.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.exe.config
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.exe.manifest
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.application
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.exe
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.pdb
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.xml
+\\pc115001\c$\NetDev\LisiPrjMRP\bin\Release\Interop.Office.dll
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\ResolveAssemblyReference.cache
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\Interop.Office.dll
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.vbproj.ResolveComReference.cache
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.CrptPOAnalyzeSubContracting.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptAcctPayableSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByDeptAndEmpPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByEmpPeriode24Hrs.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByMpoPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByValMBOPeriode24Hrs.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustomerList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActive.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveBookingByOderDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveBookingByOderDateSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByMPODeliveryDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByPartAndDelDateProduction.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByPartNoMpoNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsAdjBlanksTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsAdjTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsBlanksInventoryList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryListWithCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryListWithCostandPriceDepre.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByDeliveryDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateAndCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByLocation.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumber.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumberPriceSelection.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByStockQty.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByStockValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsRecvBlanksTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsRecvTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsReleaseBlanksTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsReleaseTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFPInventoryListGroupByPartNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceByCustomerYD.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListWithCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListByCust.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListByCustSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListNotPosted.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterial.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByDateandKSI.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByStockQty.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByStockValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialKSI.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiInvoice.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiMemo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiPOTermsEnglish.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiPslipCOC.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptListMatlPoReserv.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMatlLotNumber.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMFGMethodBarCode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMFGMethodBarCodeRefOnly.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMpoActualQtyChg.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.KillrptMpoCostAllElem.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMpoCostAllElemByCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOCostMachiningTime.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.KillrptMPOCostMatlSubContracting.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOMatlLotNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOOperationsCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPartMasterListMpoLink.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPartRefListWithBlanks.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccount.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccountSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccountSupplierSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOBySupp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByType.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOPriceCorrection.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOReceivingByPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptProcessMethod.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptProdMachLoad.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQADocumentControl.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteforPricingNew.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteListByCust.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPOPrintAll.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPOSupp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteListByPart.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMaterialActivePOList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlAdjTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlBRFSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlByOderPart.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlRelTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlRelTranzAll.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlSeeTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlToContract.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlToContractAllWIPProdandEng.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatReceivigByPeriode.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatRecvTranz.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesDelivReq.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesForecastOnLine.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesForecastOnLineALL.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopArticleTotalCycle.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDept.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDeptByValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDeptSummaryByValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSubContractListActiveNoInsp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSuppApprovedList.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSupplierCycleDelivery.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetail.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByActualQty.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByMpoDate.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByMpoDateByCustomer.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByValue.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailWithCost.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPSummary.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subCustOrderForecastMPO.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subInvRawMatlKSI.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subMPOMatlLotNo.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subRptMatlLotNoInsp.rpt
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccAddRMSPrice.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccPayable.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmBackLogAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCloseMonth.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCostBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCostEstimation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustInvoiceAddress.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustomer.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustShippingAddress.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustUpdateBudget.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngApprMillList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngBlankDia.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngBlankIndex.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngDWGSourceName.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngFinishSourceList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngMPOPlanedSplit.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngUpdateRev.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPAdj.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPReleaseToMPO.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPSalesPriceUpdate.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlLotAdj.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlLotStockNotes.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlPriceDepreciation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMenu.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderAssignDellivToMPO.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMaster.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcAccessByPart.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcess.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcGetOper.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcMpoSrc.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcSQL.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOAddOperation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPODeptChange.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPoRecvInsp.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPoRecvTreatInsp.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmProductionAnalize.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAClasification.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAImportWordDoc.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAReadDocuments.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRawMaterialAnalyze.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmReleaseBlanks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSelectDept.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmShopFloorControl.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.WKILL_frmEngMatlMaster.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngMatlType.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngRemarks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngSpecList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFinalInspection.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmInspReqList.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiFormsControl.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiMemoApp.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiMemoSrc.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLogin.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMPOGenfromOrder.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMpoSplitProd.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderEntry.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderEntryPutQuote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterDwgSource.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterQuote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcAccess.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMaster.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterPrint.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterSearchPO.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMatlReservation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPONote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOPrintAll.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOReceiving.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPORemarks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuote.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteBrowse.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteBrowseAll.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteEngEst.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteRemarks.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRawMatlAdj.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmReleaseRawMaterial.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRMStockLocation.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesDelivReq.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesForecast.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesInvoice.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesPSlip.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSupplier.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.WWWInternalForm.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.Resources.resources
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.vbproj.GenerateResource.Cache
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.TrustInfo.xml
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.exe.manifest
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.application
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.exe
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.xml
+\\pc115001\c$\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.pdb
+C:\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.config
+C:\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe.manifest
+C:\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.application
+C:\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.exe
+C:\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.pdb
+C:\NetDev\LisiPrjMRP\obj\Debug\ResolveAssemblyReference.cache
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.ResolveComReference.cache
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.CrptPOAnalyzeSubContracting.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptAcctPayableSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByDeptAndEmpPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByEmpPeriode24Hrs.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByMpoPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptBarCodeByValMBOPeriode24Hrs.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustomerList.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActive.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveBookingByOderDateSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByDelDateSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByMPODeliveryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartAndDelDateProduction.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptCustOrderActiveForecastByPartNoMpoNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjBlanksTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsAdjTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsBlanksInventoryList.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryList.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryListWithCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryListWithCostandPriceDepre.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByDeliveryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateAndCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByLocation.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumber.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumberPriceSelection.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockQty.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInvListOrderByStockValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvBlanksTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseBlanksTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsReleaseTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFPInventoryListGroupByPartNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceByCustomerYD.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceList.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListWithCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCust.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListByCustSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListNotPosted.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterial.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByDateandKSI.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockQty.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialByStockValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialKSI.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiInvoice.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiMemo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiPOTermsEnglish.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiPslipCOC.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptListMatlPoReserv.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMatlLotNumber.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCode.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCodeRefOnly.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoActualQtyChg.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMpoCostAllElemByCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOCostMachiningTime.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.KillrptMPOCostMatlSubContracting.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOMatlLotNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMPOOperationsCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartMasterListMpoLink.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartRefListWithBlanks.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccount.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByGLAccountSupplierSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOBySupp.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOByType.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOPriceCorrection.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPrintPOReceivingByPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProcessMethod.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptProdMachLoad.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQADocumentControl.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteforPricingNew.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByCust.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOPrintAll.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOSupp.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteListByPart.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMaterialActivePOList.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlAdjTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlBRFSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlByOderPart.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlRelTranzAll.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlSeeTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContract.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlToContractAllWIPProdandEng.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatReceivigByPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatRecvTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesDelivReq.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLine.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastOnLineALL.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopArticleTotalCycle.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDept.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptByValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptShopFloorByDeptSummaryByValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSubContractListActiveNoInsp.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSuppApprovedList.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSupplierCycleDelivery.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetail.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByActualQty.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByMpoDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByMpoDateByCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailOrderByValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPDetailWithCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptWIPSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subCustOrderForecastMPO.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subInvRawMatlKSI.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subMPOMatlLotNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.subRptMatlLotNoInsp.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccAddRMSPrice.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccPayable.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmBackLogAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCloseMonth.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCostEstimation.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustInvoiceAddress.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustomer.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustShippingAddress.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmCustUpdateBudget.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngApprMillList.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngBlankDia.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngBlankIndex.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngDWGSourceName.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngFinishSourceList.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngMPOPlanedSplit.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngUpdateRev.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPReleaseToMPO.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFPSalesPriceUpdate.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlLotStockNotes.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMatlPriceDepreciation.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMenu.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderAssignDellivToMPO.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMaster.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccessByPart.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcess.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcGetOper.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcMpoSrc.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcSQL.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAddOperation.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPODeptChange.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvInsp.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPoRecvTreatInsp.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmProductionAnalize.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAClasification.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAReadDocuments.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRawMaterialAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmReleaseBlanks.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSelectDept.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmShopFloorControl.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngMatlType.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngSpecList.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmFinalInspection.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmInspReqList.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiFormsControl.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoApp.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiMemoSrc.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLogin.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMPOGenfromOrder.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMpoSplitProd.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntry.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOrderEntryPutQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterDwgSource.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartMasterQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartProcAccess.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMaster.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterPrint.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMasterSearchPO.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOMatlReservation.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPONote.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOPrintAll.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOReceiving.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPORemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteBrowseAll.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteEngEst.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQuoteRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRawMatlAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmReleaseRawMaterial.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmRMStockLocation.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesDelivReq.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesForecast.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesInvoice.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesPSlip.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSupplier.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.Resources.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.GenerateResource.Cache
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.TrustInfo.xml
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe.manifest
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.application
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.pdb
+C:\NetDev\LisiPrjMRP\bin\Debug\LisiPrjMRP.xml
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.xml
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmEngPartMasterList.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPOReceivingPriceAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSuppApprovedListWithRating.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLisiQualityIndicators.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQAIndicators.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPOAcc.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptRawMatlReleaseControl.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.KillrptRMSeeTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesPlanningFPInventory.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesPlanningFPInventory.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesForecastLabInspection.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQAIndSuppliers.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.wwwkillsearchpath.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartFromBlanks.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesPlanningFPInventoryByDeliveryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMPOCostAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmReleaseRMFirstOper.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesInvoiceNotesCredit.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMFGMethodBarCodeMpoSplit.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvoiceListWithCostByCustandPeriod.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesOTD.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmSalesPslipBarCodeLabels.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesPslipBarCodeLabels.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartCreateCrossRef.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQAIndDepartments.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptSalesPslipBarCodeLabels39.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptLisiHoneywellPslipCOC.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccHeadOfficeStatistics.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMaintEquipmentsModule.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMaintEquipInfo.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsRecvTranzAll.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryListWithCostAsMovex.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsBlanksInventoryListAsMovex.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptInvRawMaterialAsMovex.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptQuoteSuccessYD.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryListWithCostAsMovex_2.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmHSEImportWordDoc.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAImportWordDoc.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmHSEClasification.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmHSEReadDocuments.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmStQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptStQuoteNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmStCustomer.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmstQuoteRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmStQuoteAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMaintTaskInfo.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMaintProductCatalog.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmQAMpoRecords.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.StPartMaster.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmMemoDispRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMaintEquipScheduler.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccHeadOfficeLACQueries.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccHeadOfficeLACQueriesUpdateMachCost.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmAccInterCoInvoices.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmProductionFollowUpProgress.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptMaintEquipList.rpt
+C:\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.exe.config
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.exe
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.xml
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.pdb
+C:\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.exe.manifest
+C:\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.application
+C:\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.exe
+C:\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.pdb
+C:\NetDev\LisiPrjMRP\bin\Release\LisiPrjMRP.xml
+C:\NetDev\LisiPrjMRP\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\NetDev\LisiPrjMRP\obj\Release\ResolveAssemblyReference.cache
+C:\NetDev\LisiPrjMRP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.vbproj.ResolveComReference.cache
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.CrptPOAnalyzeSubContracting.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.KillrptRMSeeTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptAcctPayableSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByDeptAndEmpPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByEmpPeriode24Hrs.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByMpoPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptBarCodeByValMBOPeriode24Hrs.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustomerList.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActive.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveBookingByOderDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveBookingByOderDateSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByDelDateSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByMPODeliveryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByPartAndDelDateProduction.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptCustOrderActiveForecastByPartNoMpoNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsAdjBlanksTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsAdjTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsBlanksInventoryList.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsBlanksInventoryListAsMovex.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryList.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryListWithCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryListWithCostandPriceDepre.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryListWithCostAsMovex.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInventoryListWithCostAsMovex_2.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByDeliveryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateAndCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByLocation.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumber.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByPartNumberPriceSelection.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByStockQty.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsInvListOrderByStockValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsRecvBlanksTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsRecvTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsRecvTranzAll.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsReleaseBlanksTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFinishPartsReleaseTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptFPInventoryListGroupByPartNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceByCustomerYD.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceList.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListByCust.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListByCustSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListNotPosted.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListWithCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvoiceListWithCostByCustandPeriod.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterial.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialAsMovex.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByDateandKSI.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByStockQty.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialByStockValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptInvRawMaterialKSI.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiHoneywellPslipCOC.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiInvoice.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiMemo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiPOTermsEnglish.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptLisiPslipCOC.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptListMatlPoReserv.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMaintEquipList.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMaintEquipScheduler.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMatlLotNumber.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMFGMethodBarCode.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMFGMethodBarCodeMpoSplit.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMFGMethodBarCodeRefOnly.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMpoActualQtyChg.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMpoCostAllElemByCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOCostMachiningTime.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.KillrptMPOCostMatlSubContracting.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOMatlLotNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptMPOOperationsCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPartFromBlanks.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPartMasterListMpoLink.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPartRefListWithBlanks.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPOAcc.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPOPrintAll.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPOSupp.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccount.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccountSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByGLAccountSupplierSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOBySupp.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOByType.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOPriceCorrection.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptPrintPOReceivingByPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptProcessMethod.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptProdMachLoad.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQADocumentControl.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQAIndDepartments.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQAIndicators.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQAIndSuppliers.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteforPricingNew.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteListByCust.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteListByPart.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptQuoteSuccessYD.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMaterialActivePOList.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlAdjTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlBRFSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlByOderPart.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlReleaseControl.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlRelTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlRelTranzAll.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlSeeTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlToContract.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatlToContractAllWIPProdandEng.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatReceivigByPeriode.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptRawMatRecvTranz.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesDelivReq.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesForecastLabInspection.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesForecastOnLine.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesForecastOnLineAll.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesOTD.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesPlanningFPInventory.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesPlanningFPInventoryByDeliveryDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesPslipBarCodeLabels.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSalesPslipBarCodeLabels39.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopArticleTotalCycle.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDept.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDeptByValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptShopFloorByDeptSummaryByValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptstQuoteNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSubContractListActiveNoInsp.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSuppApprovedList.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSuppApprovedListWithRating.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptSupplierCycleDelivery.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetail.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByActualQty.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByMpoDate.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByMpoDateByCustomer.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailOrderByValue.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPDetailWithCost.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.rptWIPSummary.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subCustOrderForecastMPO.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subInvRawMatlKSI.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subMPOMatlLotNo.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.subRptMatlLotNoInsp.rpt
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccAddRMSPrice.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccHeadOfficeLACQueries.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccHeadOfficeLACQueriesUpdateMachCost.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccHeadOfficeStatistics.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccInterCoInvoices.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmAccPayable.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmBackLogAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCloseMonth.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCostBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCostEstimation.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustInvoiceAddress.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustomer.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustShippingAddress.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmCustUpdateBudget.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngApprMillList.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngBlankDia.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngBlankIndex.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngDWGSourceName.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngFinishSourceList.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngMPOPlanedSplit.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngPartMasterList.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngUpdateRev.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPReleaseToMPO.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFPSalesPriceUpdate.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmHSEClasification.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmHSEImportWordDoc.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmHSEReadDocuments.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiQualityIndicators.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMaintEquipInfo.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMaintEquipmentsModule.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMaintProductCatalog.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMaintTaskInfo.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlLotAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlLotStockNotes.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMatlPriceDepreciation.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMemoDispRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMenu.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMPOCostAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderAssignDellivToMPO.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartCreateCrossRef.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMaster.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcAccessByPart.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcess.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcGetOper.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcMpoSrc.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcSQL.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOAddOperation.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPODeptChange.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOReceivingPriceAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPoRecvInsp.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPoRecvTreatInsp.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmProductionAnalize.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmProductionFollowUpProgress.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAClasification.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAImportWordDoc.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAMpoRecords.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQAReadDocuments.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRawMaterialAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmReleaseBlanks.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmReleaseRMFirstOper.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesInvoiceNotesCredit.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesPlanningFPInventory.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesPslipBarCodeLabels.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSelectDept.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmShopFloorControl.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngMatlType.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmEngSpecList.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmFinalInspection.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmInspReqList.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiFormsControl.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiMemoApp.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLisiMemoSrc.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmLogin.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMPOGenfromOrder.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmMpoSplitProd.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderEntry.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmOrderEntryPutQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterDwgSource.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartMasterQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPartProcAccess.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMaster.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterPrint.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMasterSearchPO.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOMatlReservation.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPONote.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOPrintAll.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPOReceiving.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmPORemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteBrowse.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteBrowseAll.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmQuoteEngEst.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRawMatlAdj.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmReleaseRawMaterial.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmRMStockLocation.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesDelivReq.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesForecast.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesInvoice.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSalesPSlip.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmStCustomer.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmStQuote.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmStQuoteAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmstQuoteRemarks.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.frmSupplier.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.StPartMaster.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.wwwkillsearchpath.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.Resources.resources
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.vbproj.GenerateResource.Cache
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.TrustInfo.xml
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.exe.manifest
+C:\NetDev\LisiPrjMRP\obj\Release\LisiPrjMRP.application
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.wwwcallwebservices.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptFinishPartsInventoryListWithCostAsMovex_LNA_Shipment.rpt
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmOTD.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmLNAAnalyze.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.frmPartToolBox.resources
+C:\NetDev\LisiPrjMRP\obj\Debug\LisiPrjMRP.rptPartToolBox.rpt

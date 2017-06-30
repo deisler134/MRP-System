@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="LisiPrjMRP.exe" version="1.0.0.97" publicKeyToken="1a047eda6133db24" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LisiPrjMRP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LisiPrjMRP.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50215.44" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.Controllers" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportSource" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.Shared" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.Windows.Forms" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LisiPrjMRP.exe" size="18886656">
+      <assemblyIdentity name="LisiPrjMRP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>RxwV7CB5u/cxlsdPexRQ4/OGhDA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LisiPrjMRP.exe.config" size="2625">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a9bMvscjWDBfwXN/bU/mPjhvZrA=</dsig:DigestValue>
+    </hash>
+  </file>
+<Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qWKm3IRaJsnetHmBNXGlV8v6QCs=</DigestValue></Reference><Reference URI="#StrongNameKeyInfo"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ujOB2JgYC7s7f2zUgpTf0X8cwko=</DigestValue></Reference></SignedInfo><SignatureValue>nqrPbkgvn47m8SeASJQYOSh4KAU/vQwZNZLi4DXej/lZSQlEvyFKGfuKRhvH8t+12aviR3r7oOSL18cIBzXnpmQiAOamwa0IfhXbwPs/5qQrDFFAAIIpGM1UsN1WL3TymFpB8Tk+lqCryIQQFvS8QsxPM4vpBdtSNr3UfsMVG5Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3jvZAxNgLvX3YNiPKUKFw9GOm70QetvwOX3PEW3wRGWLaE/c1PR62A7x+BitVSl1YlFoND6JrnIor/4AVDvGZHd+M8dBs05mZSvTzrjafcQenLZADyqfB7JYB2lpNjyByiDwclNqD5TdN/Oa0TiXcPMRr3TzY0i9NvWhnDBxkrk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a244021f3f57b21a612b9ca73225b06f68e4c02d" Description="" Url=""><as:assemblyIdentity name="LisiPrjMRP.exe" version="1.0.0.97" publicKeyToken="1a047eda6133db24" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LISICANADA\studor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FBVIVdcgtKOo+nGBK+XVJHVKRjQ=</DigestValue></Reference></SignedInfo><SignatureValue>HnEIhHzPIaBP+kS1SbnKVhX7N7RfR/PucCD8qTgjVQmQzM/5tQ2Pnho5+ktmxTJSXVOV1o3wfJ1l4IpyUvf0bxgej7cE3GjnZvp1YWKMjEIUyaJvBFJ5TM1XBJ6QCYLDtnmLdEHiQVJgWajmQ/6WByftnlvyRA4hWWebTYzN8BA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3jvZAxNgLvX3YNiPKUKFw9GOm70QetvwOX3PEW3wRGWLaE/c1PR62A7x+BitVSl1YlFoND6JrnIor/4AVDvGZHd+M8dBs05mZSvTzrjafcQenLZADyqfB7JYB2lpNjyByiDwclNqD5TdN/Oa0TiXcPMRr3TzY0i9NvWhnDBxkrk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAUKgAwIBAgIQ5sa5aZsTpIlPuaf1bOLhvTAJBgUrDgMCHQUAMC0xKzApBgNVBAMeIgBMAEkAUwBJAEMAQQBOAEEARABBAFwAcwB0AHUAZABvAHIwHhcNMDUwNzIyMTg1NjUzWhcNMDYwNzIzMDA1NjUzWjAtMSswKQYDVQQDHiIATABJAFMASQBDAEEATgBBAEQAQQBcAHMAdAB1AGQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDeO9kDE2Au9fdg2I8pQoXD0Y6bvRB62/A5fc8RbfBEZYtoT9zU9HrYDvH4GK1VKXViUWg0Pomuciiv/gBUO8Zkd34zx0GzTmZlK9POuNp9xB6ctkAPKp8HslgHaWk2PIHKIPByU2oPlN0385rROJdw8xGvdPNjSL029aGcMHGSuQIDAQABMAkGBSsOAwIdBQADgYEAlDtptAD53Gtr20tfqXwHqSpRw4fYFuEiy0T6DOFDUcH4NUfVsapJzkgivHNePYH+CkOz5LI3Rd+/nt8h0f4TiMUWlnkhVozJr7ILtBIlVbyc5WYDV18JvHa2Yr0HD82v5dlIQzFrtQZQAhif3ce8S1LQtgqDdWSk1OkWkGcMwEM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
