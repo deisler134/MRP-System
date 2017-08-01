@@ -1,0 +1,9 @@
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.exe.config
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.exe
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.pdb
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.xml
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.Resources.resources
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.vbproj.GenerateResource.Cache
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.exe
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.xml
+\\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.pdb

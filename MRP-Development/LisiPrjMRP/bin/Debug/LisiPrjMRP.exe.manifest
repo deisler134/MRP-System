@@ -147,14 +147,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LisiPrjMRP.exe" size="83543040">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LisiPrjMRP.exe" size="83542528">
       <assemblyIdentity name="LisiPrjMRP" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UTS7t0V/ab0G5L6vX420VrakZNE=</dsig:DigestValue>
+        <dsig:DigestValue>Gb7leSJtymSOxt7yvjpmZ/BKals=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

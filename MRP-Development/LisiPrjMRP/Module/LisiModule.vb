@@ -30,7 +30,7 @@ Module LisiModule
 
 
     'SQL 2012
-    Public Const strConnection = "Data Source=172.21.71.8; Initial catalog=SQLMRPDevelopment; Integrated Security=SSPI; Connect Timeout=15; persist security info=False; Trusted_Connection=true; Packet Size=4096"
+    Public Const strConnection = "Data Source=172.21.71.14; Initial catalog=SQLMRPDevelopment; Integrated Security=SSPI; Connect Timeout=15; persist security info=False; Trusted_Connection=true; Packet Size=4096"
     'Public Const strConnection = "Data Source=DORAPZ01\MSSQLSERVER_12; Initial catalog=LisiMRPData_12; Integrated Security=SSPI; Connect Timeout=30; persist security info=False; Trusted_Connection=true; Packet Size=4096"
 
 
