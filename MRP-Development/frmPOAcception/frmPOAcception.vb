@@ -36,22 +36,30 @@ Module Module1
         GC.Collect()
         SearchFiles(strCSVFileSrc, "*.CSV")
         Dim i As Integer
+        Dim ret As Integer
         For i = 0 To strFileCSV.Length - 1
             If strFileCSV(i) <> Nothing Then
                 ReadExcel(strFileCSV(i))
 
                 Dim j As Integer
                 Dim nPORecvID As Integer
+                Dim nPONo As Integer
                 For j = 0 To tblFileContent.Rows.Count - 1
                     nPORecvID = tblFileContent.Rows(j).Item(1)
-                    QueryPORecvStoreProcedure("gettblPOReceivingQueries", nPORecvID)
+                    ret = QueryPORecvStoreProcedure("gettblPOReceivingQueries", nPORecvID)
+                    If ret = -1 Then
+                        Continue For
+                    End If
                     UpdatePOReceivingStoreProcedure("cspUpdatePORecv", nPORecvID)
                     Dim nPODetailID As Integer
                     Dim k As Integer
                     For k = 0 To cDS.Tables("tblDetail").Rows.Count - 1
                         nPODetailID = cDS.Tables("tblDetail").Rows(k).Item(0)
-                        QueryPODetailQtyStoreProcedure("gettblPODetailQty", nPODetailID)
-                        QueryPORecvQtyStoreProcedure("gettblPORecvQty", nPODetailID)
+                        ret = QueryPODetailQtyStoreProcedure("gettblPODetailQty", nPODetailID)
+                        ret = QueryPORecvQtyStoreProcedure("gettblPORecvQty", nPODetailID)
+                        If ret = -1 Then
+                            Continue For
+                        End If
                         nPoDetailQty = cDS.Tables("POQty").Rows(0).Item(0)
                         nPoRecvQty = cDS.Tables("PSlipQty").Compute("SUM(PSlipQty)", String.Empty)
                         If nPoDetailQty < nPoRecvQty * 0.9 Then
@@ -61,34 +69,35 @@ Module Module1
                             UpdatePORecvStatus("cspUpdatePORecvStatus", nPODetailID, "75")
                         End If
                     Next
-                Next
-                Dim nPONo As Integer
-                For j = 0 To tblFileContent.Rows.Count - 1
+
                     nPONo = tblFileContent.Rows(j).Item(0)
-                    QueryPOMasterStoreProcedure("gettblPOMasterQueries", nPONo)
+                    ret = QueryPOMasterStoreProcedure("gettblPOMasterQueries", nPONo)
+                    If ret = -1 Then
+                        Continue For
+                    End If
                     Dim nPOMasterID As Integer
-                    Dim k As Integer
                     For k = 0 To cDS.Tables("POMasterID").Rows.Count - 1
                         nPOMasterID = cDS.Tables("POMasterID").Rows(k).Item(0)
                         QueryPODetailsStatusStoreProcedure("gettblPODetailsStatus", nPOMasterID)
                         If cDS.Tables("POStatusLine").Rows.Count > 0 Then
                             Dim expression As String
-                            expression = "POStatusLine <>99 or <>75"
+                            expression = "POStatusLine<>99 AND POStatusLine<>75"
                             Dim foundRows() As DataRow
                             foundRows = cDS.Tables("POStatusLine").Select(expression)
-                            If foundRows.Count = 0 Then
+                            If foundRows.Length = 0 Then
                                 UpdatePOMasterStatus("cspUpdatePOStatusAccepted", nPOMasterID, "")
                             End If
                         End If
                     Next
+                    Dim tblCount As Integer = cDS.Tables.Count
+                    While tblCount > 3
+                        cDS.Tables.RemoveAt(tblCount - 1)
+                        tblCount = tblCount - 1
+                    End While
+                    cDS.Tables("tblDetail").Clear()
                 Next
-                Dim tblCount As Integer = cDS.Tables.Count
-                While tblCount > 3
-                    cDS.Tables.RemoveAt(tblCount - 1)
-                    tblCount = tblCount - 1
-                End While
-
                 MoveFile(strFileCSV(i), strCSVFileDst)
+                cDS.Tables("FileContent").Clear()
             End If
         Next
         If cn.State = ConnectionState.Open Then
@@ -129,6 +138,7 @@ Module Module1
             ary(0) = sr.ReadLine()
             Dim delimiter As Char = ";"c
             Dim str() As String = ary(0).Split(delimiter)
+            newRow = tblFileContent.NewRow()
             newRow("PONo") = str(0)
             newRow("PORecvID") = System.Convert.ToInt32(str(2))
             tblFileContent.Rows.Add(newRow)
@@ -138,9 +148,12 @@ Module Module1
 
     End Sub
 
-    Private Sub QueryPORecvStoreProcedure(strSPName As String, ByVal nPORecvID As Integer)
-
+    Private Function QueryPORecvStoreProcedure(strSPName As String, ByVal nPORecvID As Integer) AS Integer
+        Dim ret As Integer = 0
         Try
+            If cn.State = ConnectionState.Closed Then
+                cn.Open()
+            End If
             Dim da = New SqlDataAdapter()
             Dim cmdSQLCommand = New SqlCommand()
             cmdSQLCommand.Connection = cn
@@ -155,9 +168,15 @@ Module Module1
             par11.Value = nPORecvID
             da.SelectCommand.Parameters.Add(par11)
             da.Fill(cDS.Tables("tblDetail"))
+            If cDS.Tables("tblDetail").Rows.Count = 0 Then
+                ret = -1
+                WriteLogFile(strLogFile, "PORecvID = " & Format(nPORecvID) & ", return DetailID is NULL ")
+                Return ret
+            End If
             cmdSQLCommand.Dispose()
             da.Dispose()
         Catch ex As Exception
+            ret = -1
             WriteLogFile(strLogFile, "Exception occured - QueryPODetailID   " & ex.Message)
             If cn.State = ConnectionState.Open Then
                 cn.Close()
@@ -167,10 +186,15 @@ Module Module1
                 cn.Close()
             End If
         End Try
-    End Sub
+        Return ret
+    End Function
 
-    Private Sub QueryPOMasterStoreProcedure(strSPName As String, ByVal nPOPONo As Integer)
+    Private Function QueryPOMasterStoreProcedure(strSPName As String, ByVal nPONo As Integer) As Integer
+        Dim ret As Integer = 0
         Try
+            If cn.State = ConnectionState.Closed Then
+                cn.Open()
+            End If
             Dim da = New SqlDataAdapter()
             Dim cmdSQLCommand = New SqlCommand()
             cmdSQLCommand.Connection = cn
@@ -182,10 +206,15 @@ Module Module1
 
             ' Add Parameters to SPROC
             Dim par11 As New SqlParameter("@PONo", SqlDbType.Int)
-            par11.Value = nPoRecvID
+            par11.Value = nPONo
             da.SelectCommand.Parameters.Add(par11)
             cDS.Tables.Add("POMasterID")
             da.Fill(cDS.Tables("POMasterID"))
+            If cDS.Tables("POMasterID").Rows.Count = 0 Then
+                ret = -1
+                WriteLogFile(strLogFile, "PONo = " & Format(nPONo) & ", return POMasterID is NULL ")
+                Return ret
+            End If
             cmdSQLCommand.Dispose()
             da.Dispose()
         Catch ex As Exception
@@ -198,11 +227,15 @@ Module Module1
                 cn.Close()
             End If
         End Try
-    End Sub
+        Return ret
+    End Function
 
-    Private Sub QueryPODetailQtyStoreProcedure(strSPName As String, ByVal nPODetailID As Integer)
-
+    Private Function QueryPODetailQtyStoreProcedure(strSPName As String, ByVal nPODetailID As Integer) As Integer
+        Dim ret As Integer = 0
         Try
+            If cn.State = ConnectionState.Closed Then
+                cn.Open()
+            End If
             Dim da = New SqlDataAdapter()
             Dim cmdSQLCommand = New SqlCommand()
             cmdSQLCommand.Connection = cn
@@ -218,6 +251,11 @@ Module Module1
             da.SelectCommand.Parameters.Add(par11)
             cDS.Tables.Add("POQty")
             da.Fill(cDS.Tables("POQty"))
+            If cDS.Tables("POQty").Rows.Count = 0 Then
+                ret = -1
+                WriteLogFile(strLogFile, "PODetailID = " & Format(nPODetailID) & ", return POQty is NULL ")
+                Return ret
+            End If
             cmdSQLCommand.Dispose()
             da.Dispose()
 
@@ -231,10 +269,14 @@ Module Module1
                 cn.Close()
             End If
         End Try
-    End Sub
-    Private Sub QueryPORecvQtyStoreProcedure(strSPName As String, ByVal nPODetailID As Integer)
-
+        Return ret
+    End Function
+    Private Function QueryPORecvQtyStoreProcedure(strSPName As String, ByVal nPODetailID As Integer) As Integer
+        Dim ret As Integer = 0
         Try
+            If cn.State = ConnectionState.Closed Then
+                cn.Open()
+            End If
             Dim da = New SqlDataAdapter()
             Dim cmdSQLCommand = New SqlCommand()
             cmdSQLCommand.Connection = cn
@@ -250,6 +292,11 @@ Module Module1
             da.SelectCommand.Parameters.Add(par11)
             cDS.Tables.Add("PSlipQty")
             da.Fill(cDS.Tables("PSlipQty"))
+            If cDS.Tables("PSlipQty").Rows.Count = 0 Then
+                ret = -1
+                WriteLogFile(strLogFile, "PODetailID = " & Format(nPODetailID) & ", return PSlipQty is NULL ")
+                Return ret
+            End If
             cmdSQLCommand.Dispose()
             da.Dispose()
 
@@ -264,10 +311,14 @@ Module Module1
                 cn.Close()
             End If
         End Try
-    End Sub
+        Return ret
+    End Function
 
     Private Sub QueryPODetailsStatusStoreProcedure(strSPName As String, ByVal nPOMasterID As Integer)
         Try
+            If cn.State = ConnectionState.Closed Then
+                cn.Open()
+            End If
             Dim da = New SqlDataAdapter()
             Dim cmdSQLCommand = New SqlCommand()
             cmdSQLCommand.Connection = cn
@@ -279,7 +330,7 @@ Module Module1
 
             ' Add Parameters to SPROC
             Dim par11 As New SqlParameter("@POMasterID", SqlDbType.Int)
-            par11.Value = nPoDetailID
+            par11.Value = nPOMasterID
             da.SelectCommand.Parameters.Add(par11)
             cDS.Tables.Add("POStatusLine")
             da.Fill(cDS.Tables("POStatusLine"))
