@@ -3,17 +3,20 @@ Imports System.Data
 Imports System.Data.SqlClient
 Imports System.IO
 Imports System.Data.OleDb
+Imports Microsoft.Office.Interop
+
+
 
 Module Module1
     Dim strFileCSV(0) As String
     Dim nPoDetailID As Int32
     Dim nPoRecvID As Int32
     Dim nPoMasterID As Int32
-    Dim nPoDetailQty As Int32
-    Dim nPoRecvQty As Int32
-    Dim strLogFile As String = "C:\POFile\Log.txt"
-    Dim strCSVFileSrc As String = "C:\POFile"
-    Dim strCSVFileDst As String = "C:\POFile1"
+    Dim nPoDetailQty As Single
+    Dim nPoRecvQty As Single
+    Dim strLogFile As String = "\\srv115fs01\misdept\2-MRP-Development\LAC_Alusta_Dev\Input\Log.txt" '"C:\POFile\Log.txt"
+    Dim strCSVFileSrc As String = "\\srv115fs01\misdept\2-MRP-Development\LAC_Alusta_Dev\Input" '"C:\POFile"
+    Dim strCSVFileDst As String = "\\srv115fs01\misdept\2-MRP-Development\LAC_Alusta_Dev\Input_Archive" '"C:\POFile1"
 
     'Dim CallClass As New clsCommon
     'Const strConnection = "Data Source=172.21.71.14; Initial catalog=SQLMRPDevelopment; Integrated Security=SSPI; Connect Timeout=15; persist security info=False; Trusted_Connection=true; Packet Size=4096"
@@ -23,6 +26,7 @@ Module Module1
     Dim tblFileContent As DataTable
     Dim tblDetail As DataTable
     Dim tblRecv As DataTable
+    Dim tblRecvDetail As DataTable
     Sub Main()
 
         cDS = New DataSet("POInfo")
@@ -33,6 +37,9 @@ Module Module1
         tblDetail.Columns.Add("PODetailID", Type.GetType("System.Int32"))
         tblRecv = cDS.Tables.Add("tblRecv")
         tblRecv.Columns.Add("PORecvID", Type.GetType("System.Int32"))
+        tblRecvDetail = cDS.Tables.Add("PORecvDetail")
+        tblRecvDetail.Columns.Add("PORecvID", Type.GetType("System.Int32"))
+        tblRecvDetail.Columns.Add("PODetailID", Type.GetType("System.Int32"))
         GC.Collect()
         SearchFiles(strCSVFileSrc, "*.CSV")
         Dim i As Integer
@@ -98,6 +105,7 @@ Module Module1
                 Next
                 MoveFile(strFileCSV(i), strCSVFileDst)
                 cDS.Tables("FileContent").Clear()
+
             End If
         Next
         If cn.State = ConnectionState.Open Then
@@ -148,7 +156,7 @@ Module Module1
 
     End Sub
 
-    Private Function QueryPORecvStoreProcedure(strSPName As String, ByVal nPORecvID As Integer) AS Integer
+    Private Function QueryPORecvStoreProcedure(strSPName As String, ByVal nPORecvID As Integer) As Integer
         Dim ret As Integer = 0
         Try
             If cn.State = ConnectionState.Closed Then
@@ -168,6 +176,7 @@ Module Module1
             par11.Value = nPORecvID
             da.SelectCommand.Parameters.Add(par11)
             da.Fill(cDS.Tables("tblDetail"))
+            da.Fill(cDS.Tables("PORecvDetail"))
             If cDS.Tables("tblDetail").Rows.Count = 0 Then
                 ret = -1
                 WriteLogFile(strLogFile, "PORecvID = " & Format(nPORecvID) & ", return DetailID is NULL ")
@@ -495,14 +504,15 @@ Module Module1
             If File.Exists(strPath) = False Then
                 Dim filestream As FileStream = File.Create(strPath)
                 filestream.Close()
+                filestream.Dispose()
             End If
 
-            sw.WriteLine(Format(Now, "yyyy-mm-dd hh:MM:ss"))
+            sw.WriteLine(Format(Now, "yyyy-MM-dd hh:mm:ss"))
             sw.WriteLine(strMsg)
             sw.Flush()
 
         Catch ex As Exception
-            sw.WriteLine(Format(Now, "yyyy-mm-dd hh:MM:ss"))
+            sw.WriteLine(Format(Now, "yyyy-MM-dd hh:mm:ss"))
             sw.WriteLine("Exception occured - WriteLogFile  " & ex.Message)
             sw.Flush()
         End Try
@@ -510,5 +520,44 @@ Module Module1
         sw.Dispose()
 
     End Sub
+
+    Private Function TestData(strPath As String, ds As DataSet)
+        'strPath = "c:\1.xls"
+        'Dim sw As StreamWriter = New StreamWriter(strPath, True)
+        'If File.Exists(strPath) = False Then
+        '    Dim excel As Object
+        '    excel = CreateObject("Excel.application")
+        '    excel.Workbooks.Add.SaveAs(strPath)
+        '    excel.quit()
+        '    excel = Nothing
+        'End If
+        Dim i1 As Integer, intCol As Integer, intRow As Integer
+        Dim xlApp As New Excel.Application
+        Dim xlSheet As Excel.Worksheet
+        Dim xlBook As Excel.Workbook
+
+        Dim strName As String, strArray1() As String
+        Dim strS1 As String
+        Dim strD1 As String
+
+        xlApp.Visible = True
+        xlBook = xlApp.Workbooks.Add
+        xlSheet = xlApp.ActiveSheet
+
+        xlSheet.Range(xlSheet.Cells(1, 1), xlSheet.Cells(80, 80)).NumberFormat = "@" '文本格式  
+
+        For i = 0 To 10 '标题  
+            intRow = 1 + i * 7 + 1
+            xlSheet.Cells(1, intRow) = "分钟累积"
+            xlSheet.Cells(1, intRow + 1) = "结束时间"
+        Next
+
+        xlBook.SaveAs("c:\" & Format(Now, "yyyy-MM-dd hh_mm_ss") & ".xls")
+        xlBook.Close()
+
+        xlApp.Quit()
+
+
+    End Function
 End Module
 

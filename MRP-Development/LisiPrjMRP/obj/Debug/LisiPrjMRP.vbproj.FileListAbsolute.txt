@@ -1168,3 +1168,4 @@ Z:\2-MRP-Production\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbproj.GenerateResource.Cach
 \\srv115fs01\MISDept\2-MRP-Development\LisiPrjMRP\obj\Debug\LisiPrjMRP.exe
 \\srv115fs01\MISDept\2-MRP-Development\LisiPrjMRP\obj\Debug\LisiPrjMRP.xml
 \\srv115fs01\MISDept\2-MRP-Development\LisiPrjMRP\obj\Debug\LisiPrjMRP.pdb
+\\srv115fs01\misdept\2-MRP-Development\LisiPrjMRP\obj\Debug\LisiPrjMRP.vbprojResolveAssemblyReference.cache

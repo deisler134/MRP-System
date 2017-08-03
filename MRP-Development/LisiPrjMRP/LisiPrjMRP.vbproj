@@ -123,91 +123,135 @@
     <Compile Include="LisiForms\frmAccHeadOfficeStatistics.designer.vb">
       <DependentUpon>frmAccHeadOfficeStatistics.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccHeadOfficeStatistics.vb" />
+    <Compile Include="LisiForms\frmAccHeadOfficeStatistics.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAlustaReceivingPaid.Designer.vb">
       <DependentUpon>frmAlustaReceivingPaid.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAlustaReceivingPaid.vb" />
+    <Compile Include="LisiForms\frmAlustaReceivingPaid.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmBarCodeMBO.designer.vb">
       <DependentUpon>frmBarCodeMBO.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmBarCodeMBO.vb" />
+    <Compile Include="LisiForms\frmBarCodeMBO.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmFPSalesPriceUpdate.designer.vb">
       <DependentUpon>frmFPSalesPriceUpdate.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmFPSalesPriceUpdate.vb" />
+    <Compile Include="LisiForms\frmFPSalesPriceUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMPOGenfromOrder.designer.vb">
       <DependentUpon>frmMPOGenfromOrder.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMPOGenfromOrder.vb" />
+    <Compile Include="LisiForms\frmMPOGenfromOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOrderEntry.designer.vb">
       <DependentUpon>frmOrderEntry.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOrderEntry.vb" />
+    <Compile Include="LisiForms\frmOrderEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartGenSerialNo.Designer.vb">
       <DependentUpon>frmPartGenSerialNo.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartGenSerialNo.vb" />
+    <Compile Include="LisiForms\frmPartGenSerialNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartProcMpoSrc.designer.vb">
       <DependentUpon>frmPartProcMpoSrc.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartProcMpoSrc.vb" />
+    <Compile Include="LisiForms\frmPartProcMpoSrc.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmProdBarCodeAnalize.Designer.vb">
       <DependentUpon>frmProdBarCodeAnalize.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmProdBarCodeAnalize.vb" />
+    <Compile Include="LisiForms\frmProdBarCodeAnalize.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmProductionAnalize.Designer.vb">
       <DependentUpon>frmProductionAnalize.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmProductionAnalize.vb" />
+    <Compile Include="LisiForms\frmProductionAnalize.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmReceivingPerishable.Designer.vb">
       <DependentUpon>frmReceivingPerishable.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmReceivingPerishable.vb" />
+    <Compile Include="LisiForms\frmReceivingPerishable.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmReleasePerishable.Designer.vb">
       <DependentUpon>frmReleasePerishable.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmReleasePerishable.vb" />
+    <Compile Include="LisiForms\frmReleasePerishable.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAccAddRMSPrice.Designer.vb">
       <DependentUpon>frmAccAddRMSPrice.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccAddRMSPrice.vb" />
+    <Compile Include="LisiForms\frmAccAddRMSPrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAccHeadOfficeLACQueries.Designer.vb">
       <DependentUpon>frmAccHeadOfficeLACQueries.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccHeadOfficeLACQueries.vb" />
+    <Compile Include="LisiForms\frmAccHeadOfficeLACQueries.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAccHeadOfficeLACQueriesUpdateMachCost.Designer.vb">
       <DependentUpon>frmAccHeadOfficeLACQueriesUpdateMachCost.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccHeadOfficeLACQueriesUpdateMachCost.vb" />
+    <Compile Include="LisiForms\frmAccHeadOfficeLACQueriesUpdateMachCost.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAccInterCoInvoices.designer.vb">
       <DependentUpon>frmAccInterCoInvoices.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccInterCoInvoices.vb" />
+    <Compile Include="LisiForms\frmAccInterCoInvoices.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAccPayable.Designer.vb">
       <DependentUpon>frmAccPayable.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccPayable.vb" />
+    <Compile Include="LisiForms\frmAccPayable.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAccUploadCorpData.Designer.vb">
       <DependentUpon>frmAccUploadCorpData.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccUploadCorpData.vb" />
+    <Compile Include="LisiForms\frmAccUploadCorpData.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmAccUploadInvoicesintoM3.designer.vb">
       <DependentUpon>frmAccUploadInvoicesintoM3.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmAccUploadInvoicesintoM3.vb" />
+    <Compile Include="LisiForms\frmAccUploadInvoicesintoM3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmBackLogAnalyze.designer.vb">
       <DependentUpon>frmBackLogAnalyze.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmBackLogAnalyze.vb" />
+    <Compile Include="LisiForms\frmBackLogAnalyze.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmCloseMonth.designer.vb">
       <DependentUpon>frmCloseMonth.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmCloseMonth.vb" />
+    <Compile Include="LisiForms\frmCloseMonth.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmCostBrowse.designer.vb">
       <DependentUpon>frmCostBrowse.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmCostBrowse.vb" />
+    <Compile Include="LisiForms\frmCostBrowse.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmCostEstimation.designer.vb">
       <DependentUpon>frmCostEstimation.vb</DependentUpon>
     </Compile>
@@ -217,290 +261,432 @@
     <Compile Include="LisiForms\frmCustInvoiceAddress.designer.vb">
       <DependentUpon>frmCustInvoiceAddress.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmCustInvoiceAddress.vb" />
+    <Compile Include="LisiForms\frmCustInvoiceAddress.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmCustomer.designer.vb">
       <DependentUpon>frmCustomer.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmCustomer.vb" />
+    <Compile Include="LisiForms\frmCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmCustShippingAddress.designer.vb">
       <DependentUpon>frmCustShippingAddress.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmCustShippingAddress.vb" />
+    <Compile Include="LisiForms\frmCustShippingAddress.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmCustUpdateBudget.Designer.vb">
       <DependentUpon>frmCustUpdateBudget.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmCustUpdateBudget.vb" />
+    <Compile Include="LisiForms\frmCustUpdateBudget.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngApprMillList.designer.vb">
       <DependentUpon>frmEngApprMillList.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngApprMillList.vb" />
+    <Compile Include="LisiForms\frmEngApprMillList.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngBlankDia.Designer.vb">
       <DependentUpon>frmEngBlankDia.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngBlankDia.vb" />
+    <Compile Include="LisiForms\frmEngBlankDia.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngBlankIndex.Designer.vb">
       <DependentUpon>frmEngBlankIndex.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngBlankIndex.vb" />
+    <Compile Include="LisiForms\frmEngBlankIndex.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngDWGSourceName.designer.vb">
       <DependentUpon>frmEngDWGSourceName.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngDWGSourceName.vb" />
+    <Compile Include="LisiForms\frmEngDWGSourceName.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngFinishSourceList.designer.vb">
       <DependentUpon>frmEngFinishSourceList.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngFinishSourceList.vb" />
+    <Compile Include="LisiForms\frmEngFinishSourceList.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngMPOPlanedSplit.Designer.vb">
       <DependentUpon>frmEngMPOPlanedSplit.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngMPOPlanedSplit.vb" />
+    <Compile Include="LisiForms\frmEngMPOPlanedSplit.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngPartMasterList.Designer.vb">
       <DependentUpon>frmEngPartMasterList.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngPartMasterList.vb" />
+    <Compile Include="LisiForms\frmEngPartMasterList.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngRequestForMaterial.Designer.vb">
       <DependentUpon>frmEngRequestForMaterial.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngRequestForMaterial.vb" />
+    <Compile Include="LisiForms\frmEngRequestForMaterial.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngUpdateRev.Designer.vb">
       <DependentUpon>frmEngUpdateRev.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngUpdateRev.vb" />
+    <Compile Include="LisiForms\frmEngUpdateRev.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmFPAdj.designer.vb">
       <DependentUpon>frmFPAdj.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmFPAdj.vb" />
+    <Compile Include="LisiForms\frmFPAdj.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmFPReleaseToMPO.designer.vb">
       <DependentUpon>frmFPReleaseToMPO.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmFPReleaseToMPO.vb" />
+    <Compile Include="LisiForms\frmFPReleaseToMPO.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmHSEClasification.designer.vb">
       <DependentUpon>frmHSEClasification.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmHSEClasification.vb" />
+    <Compile Include="LisiForms\frmHSEClasification.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmHSEImportWordDoc.designer.vb">
       <DependentUpon>frmHSEImportWordDoc.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmHSEImportWordDoc.vb" />
+    <Compile Include="LisiForms\frmHSEImportWordDoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmHSEReadDocuments.designer.vb">
       <DependentUpon>frmHSEReadDocuments.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmHSEReadDocuments.vb" />
+    <Compile Include="LisiForms\frmHSEReadDocuments.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLisiMemoApp.designer.vb">
       <DependentUpon>frmLisiMemoApp.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLisiMemoApp.vb" />
+    <Compile Include="LisiForms\frmLisiMemoApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLisiMemoOpen.Designer.vb">
       <DependentUpon>frmLisiMemoOpen.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLisiMemoOpen.vb" />
+    <Compile Include="LisiForms\frmLisiMemoOpen.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLisiQualityIndicators.Designer.vb">
       <DependentUpon>frmLisiQualityIndicators.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLisiQualityIndicators.vb" />
+    <Compile Include="LisiForms\frmLisiQualityIndicators.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLNAAnalyze.Designer.vb">
       <DependentUpon>frmLNAAnalyze.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLNAAnalyze.vb" />
+    <Compile Include="LisiForms\frmLNAAnalyze.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLNALoadMiMax.Designer.vb">
       <DependentUpon>frmLNALoadMiMax.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLNALoadMiMax.vb" />
+    <Compile Include="LisiForms\frmLNALoadMiMax.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLogin.designer.vb">
       <DependentUpon>frmLogin.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLogin.vb" />
+    <Compile Include="LisiForms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMaintEquipInfo.Designer.vb">
       <DependentUpon>frmMaintEquipInfo.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMaintEquipInfo.vb" />
+    <Compile Include="LisiForms\frmMaintEquipInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMaintEquipmentsModule.Designer.vb">
       <DependentUpon>frmMaintEquipmentsModule.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMaintEquipmentsModule.vb" />
+    <Compile Include="LisiForms\frmMaintEquipmentsModule.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMaintProductCatalog.Designer.vb">
       <DependentUpon>frmMaintProductCatalog.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMaintProductCatalog.vb" />
+    <Compile Include="LisiForms\frmMaintProductCatalog.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMaintTaskInfo.Designer.vb">
       <DependentUpon>frmMaintTaskInfo.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMaintTaskInfo.vb" />
+    <Compile Include="LisiForms\frmMaintTaskInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMatlLotAdj.designer.vb">
       <DependentUpon>frmMatlLotAdj.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMatlLotAdj.vb" />
+    <Compile Include="LisiForms\frmMatlLotAdj.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMatlLotStockNotes.designer.vb">
       <DependentUpon>frmMatlLotStockNotes.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMatlLotStockNotes.vb" />
+    <Compile Include="LisiForms\frmMatlLotStockNotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMatlPriceDepreciation.designer.vb">
       <DependentUpon>frmMatlPriceDepreciation.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMatlPriceDepreciation.vb" />
+    <Compile Include="LisiForms\frmMatlPriceDepreciation.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMemoDispRemarks.designer.vb">
       <DependentUpon>frmMemoDispRemarks.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMemoDispRemarks.vb" />
+    <Compile Include="LisiForms\frmMemoDispRemarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMenu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="LisiForms\frmMPOCostAnalyze.Designer.vb">
       <DependentUpon>frmMPOCostAnalyze.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMPOCostAnalyze.vb" />
+    <Compile Include="LisiForms\frmMPOCostAnalyze.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOperatorsPay.designer.vb">
       <DependentUpon>frmOperatorsPay.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOperatorsPay.vb" />
+    <Compile Include="LisiForms\frmOperatorsPay.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOrderAssignDellivToMPO.Designer.vb">
       <DependentUpon>frmOrderAssignDellivToMPO.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOrderAssignDellivToMPO.vb" />
+    <Compile Include="LisiForms\frmOrderAssignDellivToMPO.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOrderEntryM3CODO.Designer.vb">
       <DependentUpon>frmOrderEntryM3CODO.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOrderEntryM3CODO.vb" />
+    <Compile Include="LisiForms\frmOrderEntryM3CODO.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOrderEntryPutBCAYearPrice.designer.vb">
       <DependentUpon>frmOrderEntryPutBCAYearPrice.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOrderEntryPutBCAYearPrice.vb" />
+    <Compile Include="LisiForms\frmOrderEntryPutBCAYearPrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOrderEntryPutMachSTDCost.designer.vb">
       <DependentUpon>frmOrderEntryPutMachSTDCost.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOrderEntryPutMachSTDCost.vb" />
+    <Compile Include="LisiForms\frmOrderEntryPutMachSTDCost.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOrderEntryPutQuote.designer.vb">
       <DependentUpon>frmOrderEntryPutQuote.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOrderEntryPutQuote.vb" />
+    <Compile Include="LisiForms\frmOrderEntryPutQuote.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOrderM3ITNO.Designer.vb">
       <DependentUpon>frmOrderM3ITNO.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOrderM3ITNO.vb" />
+    <Compile Include="LisiForms\frmOrderM3ITNO.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartCreateCrossRef.Designer.vb">
       <DependentUpon>frmPartCreateCrossRef.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartCreateCrossRef.vb" />
+    <Compile Include="LisiForms\frmPartCreateCrossRef.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartMaster.designer.vb">
       <DependentUpon>frmPartMaster.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartMaster.vb" />
+    <Compile Include="LisiForms\frmPartMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartProcAccessByPart.designer.vb">
       <DependentUpon>frmPartProcAccessByPart.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartProcAccessByPart.vb" />
+    <Compile Include="LisiForms\frmPartProcAccessByPart.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartProcess.designer.vb">
       <DependentUpon>frmPartProcess.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartProcess.vb" />
+    <Compile Include="LisiForms\frmPartProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartProcGetOper.designer.vb">
       <DependentUpon>frmPartProcGetOper.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartProcGetOper.vb" />
+    <Compile Include="LisiForms\frmPartProcGetOper.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartProcSQL.designer.vb">
       <DependentUpon>frmPartProcSQL.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartProcSQL.vb" />
+    <Compile Include="LisiForms\frmPartProcSQL.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartToolBox.Designer.vb">
       <DependentUpon>frmPartToolBox.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartToolBox.vb" />
+    <Compile Include="LisiForms\frmPartToolBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOAddOperation.Designer.vb">
       <DependentUpon>frmPOAddOperation.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOAddOperation.vb" />
+    <Compile Include="LisiForms\frmPOAddOperation.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOAnalyze.Designer.vb">
       <DependentUpon>frmPOAnalyze.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOAnalyze.vb" />
+    <Compile Include="LisiForms\frmPOAnalyze.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPODeptChange.Designer.vb">
       <DependentUpon>frmPODeptChange.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPODeptChange.vb" />
+    <Compile Include="LisiForms\frmPODeptChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOMasterBrowse.designer.vb">
       <DependentUpon>frmPOMasterBrowse.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOMasterBrowse.vb" />
+    <Compile Include="LisiForms\frmPOMasterBrowse.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOQuery.Designer.vb">
       <DependentUpon>frmPOQuery.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOQuery.vb" />
+    <Compile Include="LisiForms\frmPOQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOReceivingPriceAdj.Designer.vb">
       <DependentUpon>frmPOReceivingPriceAdj.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOReceivingPriceAdj.vb" />
+    <Compile Include="LisiForms\frmPOReceivingPriceAdj.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPoRecvInsp.designer.vb">
       <DependentUpon>frmPoRecvInsp.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPoRecvInsp.vb" />
+    <Compile Include="LisiForms\frmPoRecvInsp.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmOTD.Designer.vb">
       <DependentUpon>frmOTD.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmOTD.vb" />
+    <Compile Include="LisiForms\frmOTD.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPoRecvTreatInsp.Designer.vb">
       <DependentUpon>frmPoRecvTreatInsp.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPoRecvTreatInsp.vb" />
+    <Compile Include="LisiForms\frmPoRecvTreatInsp.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmProdFirstRelease.Designer.vb">
       <DependentUpon>frmProdFirstRelease.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmProdFirstRelease.vb" />
+    <Compile Include="LisiForms\frmProdFirstRelease.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmProductionFollowUpProgress.Designer.vb">
       <DependentUpon>frmProductionFollowUpProgress.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmProductionFollowUpProgress.vb" />
+    <Compile Include="LisiForms\frmProductionFollowUpProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQAClasification.designer.vb">
       <DependentUpon>frmQAClasification.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQAClasification.vb" />
+    <Compile Include="LisiForms\frmQAClasification.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQAImportWordDoc.designer.vb">
       <DependentUpon>frmQAImportWordDoc.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQAImportWordDoc.vb" />
+    <Compile Include="LisiForms\frmQAImportWordDoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQAMpoRecords.Designer.vb">
       <DependentUpon>frmQAMpoRecords.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQAMpoRecords.vb" />
+    <Compile Include="LisiForms\frmQAMpoRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQAReadDocuments.designer.vb">
       <DependentUpon>frmQAReadDocuments.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQAReadDocuments.vb" />
+    <Compile Include="LisiForms\frmQAReadDocuments.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQuote.designer.vb">
       <DependentUpon>frmQuote.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQuote.vb" />
+    <Compile Include="LisiForms\frmQuote.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQuoteAnalyze.Designer.vb">
       <DependentUpon>frmQuoteAnalyze.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQuoteAnalyze.vb" />
+    <Compile Include="LisiForms\frmQuoteAnalyze.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQuoteAnalyzeM3.Designer.vb">
       <DependentUpon>frmQuoteAnalyzeM3.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQuoteAnalyzeM3.vb" />
+    <Compile Include="LisiForms\frmQuoteAnalyzeM3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQuoteRemarks.designer.vb">
       <DependentUpon>frmQuoteRemarks.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQuoteRemarks.vb" />
+    <Compile Include="LisiForms\frmQuoteRemarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmRawMaterialAnalyze.Designer.vb">
       <DependentUpon>frmRawMaterialAnalyze.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmRawMaterialAnalyze.vb" />
+    <Compile Include="LisiForms\frmRawMaterialAnalyze.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmReleaseBlanks.Designer.vb">
       <DependentUpon>frmReleaseBlanks.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmReleaseBlanks.vb" />
+    <Compile Include="LisiForms\frmReleaseBlanks.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmReleaseRMFirstOper.Designer.vb">
       <DependentUpon>frmReleaseRMFirstOper.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmReleaseRMFirstOper.vb" />
+    <Compile Include="LisiForms\frmReleaseRMFirstOper.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmReleaseRMLabels.Designer.vb">
       <DependentUpon>frmReleaseRMLabels.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmReleaseRMLabels.vb" />
+    <Compile Include="LisiForms\frmReleaseRMLabels.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesBoeingLabels.Designer.vb">
       <DependentUpon>frmSalesBoeingLabels.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesBoeingLabels.vb" />
+    <Compile Include="LisiForms\frmSalesBoeingLabels.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesCancelDelivReq.Designer.vb">
       <DependentUpon>frmSalesCancelDelivReq.vb</DependentUpon>
     </Compile>
@@ -510,181 +696,268 @@
     <Compile Include="LisiForms\frmSalesInvoice.designer.vb">
       <DependentUpon>frmSalesInvoice.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesInvoice.vb" />
+    <Compile Include="LisiForms\frmSalesInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesInvoiceNotesCredit.Designer.vb">
       <DependentUpon>frmSalesInvoiceNotesCredit.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesInvoiceNotesCredit.vb" />
+    <Compile Include="LisiForms\frmSalesInvoiceNotesCredit.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesPlanningFPInventory.Designer.vb">
       <DependentUpon>frmSalesPlanningFPInventory.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesPlanningFPInventory.vb" />
+    <Compile Include="LisiForms\frmSalesPlanningFPInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesPslipBarCodeLabels.Designer.vb">
       <DependentUpon>frmSalesPslipBarCodeLabels.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesPslipBarCodeLabels.vb" />
+    <Compile Include="LisiForms\frmSalesPslipBarCodeLabels.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSelectDept.designer.vb">
       <DependentUpon>frmSelectDept.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSelectDept.vb" />
+    <Compile Include="LisiForms\frmSelectDept.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmShopFloorControl.designer.vb">
       <DependentUpon>frmShopFloorControl.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmShopFloorControl.vb" />
+    <Compile Include="LisiForms\frmShopFloorControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngMatlType.designer.vb">
       <DependentUpon>frmEngMatlType.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngMatlType.vb" />
+    <Compile Include="LisiForms\frmEngMatlType.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngRemarks.designer.vb">
       <DependentUpon>frmEngRemarks.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngRemarks.vb" />
+    <Compile Include="LisiForms\frmEngRemarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmEngSpecList.designer.vb">
       <DependentUpon>frmEngSpecList.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmEngSpecList.vb" />
+    <Compile Include="LisiForms\frmEngSpecList.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmFinalInspection.designer.vb">
       <DependentUpon>frmFinalInspection.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmFinalInspection.vb" />
+    <Compile Include="LisiForms\frmFinalInspection.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmInspReqList.Designer.vb">
       <DependentUpon>frmInspReqList.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmInspReqList.vb" />
+    <Compile Include="LisiForms\frmInspReqList.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLisiFormsControl.Designer.vb">
       <DependentUpon>frmLisiFormsControl.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLisiFormsControl.vb" />
+    <Compile Include="LisiForms\frmLisiFormsControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmLisiMemoSrc.Designer.vb">
       <DependentUpon>frmLisiMemoSrc.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmLisiMemoSrc.vb" />
+    <Compile Include="LisiForms\frmLisiMemoSrc.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmMpoSplitProd.designer.vb">
       <DependentUpon>frmMpoSplitProd.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmMpoSplitProd.vb" />
+    <Compile Include="LisiForms\frmMpoSplitProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartMasterBrowse.designer.vb">
       <DependentUpon>frmPartMasterBrowse.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartMasterBrowse.vb" />
+    <Compile Include="LisiForms\frmPartMasterBrowse.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartMasterDwgSource.Designer.vb">
       <DependentUpon>frmPartMasterDwgSource.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartMasterDwgSource.vb" />
+    <Compile Include="LisiForms\frmPartMasterDwgSource.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartMasterQuote.Designer.vb">
       <DependentUpon>frmPartMasterQuote.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartMasterQuote.vb" />
+    <Compile Include="LisiForms\frmPartMasterQuote.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPartProcAccess.designer.vb">
       <DependentUpon>frmPartProcAccess.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPartProcAccess.vb" />
+    <Compile Include="LisiForms\frmPartProcAccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOMaster.designer.vb">
       <DependentUpon>frmPOMaster.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOMaster.vb" />
+    <Compile Include="LisiForms\frmPOMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOmasterPrint.designer.vb">
       <DependentUpon>frmPOmasterPrint.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOmasterPrint.vb" />
+    <Compile Include="LisiForms\frmPOmasterPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOMasterSearchPO.designer.vb">
       <DependentUpon>frmPOMasterSearchPO.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOMasterSearchPO.vb" />
+    <Compile Include="LisiForms\frmPOMasterSearchPO.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOMatlReservation.designer.vb">
       <DependentUpon>frmPOMatlReservation.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOMatlReservation.vb" />
+    <Compile Include="LisiForms\frmPOMatlReservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPONote.designer.vb">
       <DependentUpon>frmPONote.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPONote.vb" />
+    <Compile Include="LisiForms\frmPONote.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOPrintAll.Designer.vb">
       <DependentUpon>frmPOPrintAll.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOPrintAll.vb" />
+    <Compile Include="LisiForms\frmPOPrintAll.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPOReceiving.designer.vb">
       <DependentUpon>frmPOReceiving.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPOReceiving.vb" />
+    <Compile Include="LisiForms\frmPOReceiving.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmPORemarks.designer.vb">
       <DependentUpon>frmPORemarks.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmPORemarks.vb" />
+    <Compile Include="LisiForms\frmPORemarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQuoteBrowse.Designer.vb">
       <DependentUpon>frmQuoteBrowse.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQuoteBrowse.vb" />
+    <Compile Include="LisiForms\frmQuoteBrowse.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQuoteBrowseAll.Designer.vb">
       <DependentUpon>frmQuoteBrowseAll.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQuoteBrowseAll.vb" />
+    <Compile Include="LisiForms\frmQuoteBrowseAll.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmQuoteEngEst.designer.vb">
       <DependentUpon>frmQuoteEngEst.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmQuoteEngEst.vb" />
+    <Compile Include="LisiForms\frmQuoteEngEst.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmRawMatlAdj.designer.vb">
       <DependentUpon>frmRawMatlAdj.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmRawMatlAdj.vb" />
+    <Compile Include="LisiForms\frmRawMatlAdj.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmReleaseRawMaterial.designer.vb">
       <DependentUpon>frmReleaseRawMaterial.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmReleaseRawMaterial.vb" />
+    <Compile Include="LisiForms\frmReleaseRawMaterial.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmRMStockLocation.designer.vb">
       <DependentUpon>frmRMStockLocation.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmRMStockLocation.vb" />
+    <Compile Include="LisiForms\frmRMStockLocation.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesDelivReq.designer.vb">
       <DependentUpon>frmSalesDelivReq.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesDelivReq.vb" />
+    <Compile Include="LisiForms\frmSalesDelivReq.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesForecast.Designer.vb">
       <DependentUpon>frmSalesForecast.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesForecast.vb" />
+    <Compile Include="LisiForms\frmSalesForecast.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSalesPSlip.designer.vb">
       <DependentUpon>frmSalesPSlip.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSalesPSlip.vb" />
+    <Compile Include="LisiForms\frmSalesPSlip.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmStCustomer.designer.vb">
       <DependentUpon>frmStCustomer.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmStCustomer.vb" />
+    <Compile Include="LisiForms\frmStCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmStQuote.designer.vb">
       <DependentUpon>frmStQuote.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmStQuote.vb" />
+    <Compile Include="LisiForms\frmStQuote.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmStQuoteAnalyze.Designer.vb">
       <DependentUpon>frmStQuoteAnalyze.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmStQuoteAnalyze.vb" />
+    <Compile Include="LisiForms\frmStQuoteAnalyze.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmStQuoteRemarks.designer.vb">
       <DependentUpon>frmStQuoteRemarks.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmStQuoteRemarks.vb" />
+    <Compile Include="LisiForms\frmStQuoteRemarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\frmSupplier.designer.vb">
       <DependentUpon>frmSupplier.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\frmSupplier.vb" />
+    <Compile Include="LisiForms\frmSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\StPartMaster.Designer.vb">
       <DependentUpon>StPartMaster.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\StPartMaster.vb" />
+    <Compile Include="LisiForms\StPartMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\wwwcallwebservices.designer.vb">
       <DependentUpon>wwwcallwebservices.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\wwwcallwebservices.vb" />
+    <Compile Include="LisiForms\wwwcallwebservices.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LisiForms\wwwkillsearchpath.Designer.vb">
       <DependentUpon>wwwkillsearchpath.vb</DependentUpon>
     </Compile>
-    <Compile Include="LisiForms\wwwkillsearchpath.vb" />
+    <Compile Include="LisiForms\wwwkillsearchpath.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Module\LisiModule.vb" />
     <Compile Include="Module\Nz.vb" />
     <Compile Include="MSPeports\MSCrptPOAnalyzeSubContracting.vb">
       <DependentUpon>MSCrptPOAnalyzeSubContracting.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -706,796 +979,955 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CrptPOAnalyzeSubContracting.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptAccReceivedAndNotPaid.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptAccReceivedAndNotPaid.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\KillrptRMSeeTranz.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>KillrptRMSeeTranz.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptAcctPayableSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptAcctPayableSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptBarCodeByDeptAndEmpPeriode.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptBarCodeByDeptAndEmpPeriode.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptBarCodeByEmpPeriode24Hrs.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptBarCodeByEmpPeriode24Hrs.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptBarCodeByMpoPeriode.vb">
       <DependentUpon>rptBarCodeByMpoPeriode.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptBarCodeByValMBOPeriode24Hrs.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptBarCodeByValMBOPeriode24Hrs.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustomerList.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustomerList.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActive1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActive.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveBookingByOderDate.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveBookingByOderDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveBookingByOderDateSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveBookingByOderDateSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByDelDate.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveForecastByDelDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByDelDateAndPartNo.vb">
       <DependentUpon>rptCustOrderActiveForecastByDelDateAndPartNo.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveForecastByDelDateAndPartNoAndCustomer.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByDelDateSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveForecastByDelDateSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByMPODeliveryDate.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveForecastByMPODeliveryDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByPartAndDelDateProduction.vb">
       <DependentUpon>rptCustOrderActiveForecastByPartAndDelDateProduction.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByPartAndDelDateProduction_LNAOnly.vb">
       <DependentUpon>rptCustOrderActiveForecastByPartAndDelDateProduction_LNAOnly.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByPartAndDelDateProduction_LNAOnlyVer2.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveForecastByPartAndDelDateProduction_LNAOnlyVer2.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptCustOrderActiveForecastByPartNoMpoNo.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCustOrderActiveForecastByPartNoMpoNo.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptDOsContractReview.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptDOsContractReview.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsAdjBlanksTranz.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsAdjBlanksTranz.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsAdjTranz.vb">
       <DependentUpon>rptFinishPartsAdjTranz.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsBlanksInventoryList.vb">
       <DependentUpon>rptFinishPartsBlanksInventoryList.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsBlanksInventoryListAsMovex.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsBlanksInventoryListAsMovex.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryList.vb">
       <DependentUpon>rptFinishPartsInventoryList.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryListWithCost.vb">
       <DependentUpon>rptFinishPartsInventoryListWithCost.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryListWithCostandPriceDepre.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInventoryListWithCostandPriceDepre.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryListWithCostAsMovex.vb">
       <DependentUpon>rptFinishPartsInventoryListWithCostAsMovex.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryListWithCostAsMovexStdPrice.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInventoryListWithCostAsMovexStdPrice.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryListWithCostAsMovex_2.vb">
       <DependentUpon>rptFinishPartsInventoryListWithCostAsMovex_2.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryListWithCostAsMovex_LNA_Shipment.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInventoryListWithCostAsMovex_LNA_Shipment.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInventoryListWithCostAsMovex_LNA_Shipment_Ver2.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInventoryListWithCostAsMovex_LNA_Shipment_Ver2.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByDeliveryDate.vb">
       <DependentUpon>rptFinishPartsInvListOrderByDeliveryDate.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByEntryDate.vb">
       <DependentUpon>rptFinishPartsInvListOrderByEntryDate.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByEntryDateAndCustomer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInvListOrderByEntryDateAndCustomer.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByEntryDateFilterDepreciation.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInvListOrderByEntryDateFilterDepreciation.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByLocation.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInvListOrderByLocation.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByPartNumber.vb">
       <DependentUpon>rptFinishPartsInvListOrderByPartNumber.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByPartNumberPriceSelection.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInvListOrderByPartNumberPriceSelection.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByStockQty.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInvListOrderByStockQty.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsInvListOrderByStockValue.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsInvListOrderByStockValue.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsRecvBlanksTranz.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsRecvBlanksTranz.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsRecvTranz.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsRecvTranz.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsRecvTranzAll.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsRecvTranzAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsReleaseBlanksTranz.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsReleaseBlanksTranz.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsReleaseTranz.vb">
       <DependentUpon>rptFinishPartsReleaseTranz.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFinishPartsReleaseTranz_FromLNA_TransferStock.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFinishPartsReleaseTranz_FromLNA_TransferStock.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptFPInventoryListGroupByPartNo.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptFPInventoryListGroupByPartNo.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvoiceByCustomerYD.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvoiceByCustomerYD.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvoiceList.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvoiceList.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvoiceListByCust.vb">
       <DependentUpon>rptInvoiceListByCust.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvoiceListByCustSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvoiceListByCustSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvoiceListNotPosted.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvoiceListNotPosted.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvoiceListWithCost.vb">
       <DependentUpon>rptInvoiceListWithCost.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvoiceListWithCostByCustandPeriod.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvoiceListWithCostByCustandPeriod.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvRawMaterial.vb">
       <DependentUpon>rptInvRawMaterial.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvRawMaterialAsMovex.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvRawMaterialAsMovex.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvRawMaterialAsMovex_Ver_LAC.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvRawMaterialAsMovex_Ver_LAC.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvRawMaterialByDateandKSI.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvRawMaterialByDateandKSI.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvRawMaterialByStockQty.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvRawMaterialByStockQty.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvRawMaterialByStockValue.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvRawMaterialByStockValue.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptInvRawMaterialKSI.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptInvRawMaterialKSI.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptLisiHoneywellPslipCOC.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptLisiHoneywellPslipCOC.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptLisiInvoice.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptLisiInvoice.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptLisiLNABoeingPslipCOC.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptLisiLNABoeingPslipCOC.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptLisiMemo.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptLisiMemo.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptLisiMemoTraining.vb">
       <DependentUpon>rptLisiMemoTraining.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptLisiPOTermsEnglish.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptLisiPOTermsEnglish.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptLisiPslipCOC.vb">
       <DependentUpon>rptLisiPslipCOC.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptListMatlPoReserv.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptListMatlPoReserv.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMaintEquipList.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMaintEquipList.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMaintEquipScheduler.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMaintEquipScheduler.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMatlLotNumber.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMatlLotNumber.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMFGMethodBarCode.vb">
       <DependentUpon>rptMFGMethodBarCode.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMFGMethodBarCodeMpoSplit.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMFGMethodBarCodeMpoSplit.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMFGMethodBarCodeOld.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMFGMethodBarCodeOld.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMFGMethodBarCodeRefOnly.vb">
       <DependentUpon>rptMFGMethodBarCodeRefOnly.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMpoActualQtyChg.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMpoActualQtyChg.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMPOCost.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMPOCost.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMpoCostAllElemByCustomer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMpoCostAllElemByCustomer.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMPOCostMachiningTime.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMPOCostMachiningTime.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\KillrptMPOCostMatlSubContracting.vb">
       <DependentUpon>KillrptMPOCostMatlSubContracting.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMPOMatlLotNo.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMPOMatlLotNo.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptMPOOperationsCost.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptMPOOperationsCost.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPartFromBlanks.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPartFromBlanks.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPartMasterListMpoLink.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPartMasterListMpoLink.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPartRefListWithBlanks.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPartRefListWithBlanks.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPartToolBox.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPartToolBox.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPerishableInventoryList.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPerishableInventoryList.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPerishableReceiving.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPerishableReceiving.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPerishableRelease.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPerishableRelease.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPOAcc.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPOAcc.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPOPrintAll.vb">
       <DependentUpon>rptPOPrintAll.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPOSupp.vb">
       <DependentUpon>rptPOSupp.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPrintPOByGLAccount.vb">
       <DependentUpon>rptPrintPOByGLAccount.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPrintPOByGLAccountSummary.vb">
       <DependentUpon>rptPrintPOByGLAccountSummary.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPrintPOByGLAccountSupplierSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPrintPOByGLAccountSupplierSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPrintPOBySupp.vb">
       <DependentUpon>rptPrintPOBySupp.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPrintPOByType.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPrintPOByType.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPrintPOPriceCorrection.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPrintPOPriceCorrection.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptPrintPOReceivingByPeriode.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPrintPOReceivingByPeriode.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptProcessMethod.vb">
       <DependentUpon>rptProcessMethod.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptProdMachLoad.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptProdMachLoad.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQADocumentControl.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptQADocumentControl.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQAIndDepartments.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptQAIndDepartments.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQAIndicators.vb">
       <DependentUpon>rptQAIndicators.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQAIndSuppliers.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptQAIndSuppliers.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQuoteforPricingNew.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptQuoteforPricingNew.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQuoteListByCust.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptQuoteListByCust.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQuoteListByPart.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptQuoteListByPart.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQuoteNo.vb">
       <DependentUpon>rptQuoteNo.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptQuoteSuccessYD.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptQuoteSuccessYD.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMaterialActivePOList.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMaterialActivePOList.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMaterialLabels.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMaterialLabels.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlAdjTranz.vb">
       <DependentUpon>rptRawMatlAdjTranz.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlBRFSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMatlBRFSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlByOderPart.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMatlByOderPart.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlReleaseControl.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMatlReleaseControl.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlRelTranz.vb">
       <DependentUpon>rptRawMatlRelTranz.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlRelTranzAll.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMatlRelTranzAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlSeeTranz.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMatlSeeTranz.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlToContract.vb">
       <DependentUpon>rptRawMatlToContract.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatlToContractAllWIPProdandEng.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMatlToContractAllWIPProdandEng.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatReceivigByPeriode.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptRawMatReceivigByPeriode.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptRawMatRecvTranz1.vb">
       <DependentUpon>rptRawMatRecvTranz.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesBoeingLabels39Container.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesBoeingLabels39Container.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesBoeingLabels39Intermediere.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesBoeingLabels39Intermediere.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesDelivReq.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesDelivReq.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesForecastLabInspection.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesForecastLabInspection.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesForecastOnLine.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesForecastOnLine.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesForecastOnLineAll.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesForecastOnLineAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesOTD.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesOTD.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesPlanningFPInventory.vb">
       <DependentUpon>rptSalesPlanningFPInventory.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesPlanningFPInventoryByDeliveryDate.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesPlanningFPInventoryByDeliveryDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesPslipBarCodeLabels.vb">
       <DependentUpon>rptSalesPslipBarCodeLabels.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesPslipBarCodeLabels39.vb">
       <DependentUpon>rptSalesPslipBarCodeLabels39.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSalesPslipBarCodeLabels39HoneyWell.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSalesPslipBarCodeLabels39HoneyWell.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptShopArticleTotalCycle.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptShopArticleTotalCycle.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptShopFloorByDept.vb">
       <DependentUpon>rptShopFloorByDept.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptShopFloorByDeptByValue1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptShopFloorByDeptByValue.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptShopFloorByDeptSummaryByValue.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptShopFloorByDeptSummaryByValue.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptstQuoteNo.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptstQuoteNo.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSubContractListActiveNoInsp.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSubContractListActiveNoInsp.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSuppApprovedList.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSuppApprovedList.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSuppApprovedListWithRating.vb">
       <DependentUpon>rptSuppApprovedListWithRating.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptSupplierCycleDelivery.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptSupplierCycleDelivery.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptWIPDetail.vb">
       <DependentUpon>rptWIPDetail.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptWIPDetailOrderByActualQty.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptWIPDetailOrderByActualQty.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptWIPDetailOrderByMpoDate.vb">
       <DependentUpon>rptWIPDetailOrderByMpoDate.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptWIPDetailOrderByMpoDateByCustomer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptWIPDetailOrderByMpoDateByCustomer.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptWIPDetailOrderByValue.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptWIPDetailOrderByValue.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptWIPDetailWithCost.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptWIPDetailWithCost.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\rptWIPSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptWIPSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\subCustOrderForecastMPO.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>subCustOrderForecastMPO.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\subInvRawMatlKSI.vb">
       <DependentUpon>subInvRawMatlKSI.rpt</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\subMPOMatlLotNo.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>subMPOMatlLotNo.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\subRptMatlLotNoInsp.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>subRptMatlLotNoInsp.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Settings.vb" />
   </ItemGroup>
