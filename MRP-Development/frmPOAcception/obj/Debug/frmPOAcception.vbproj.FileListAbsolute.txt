@@ -8,13 +8,3 @@
 \\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.xml
 \\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.pdb
 \\srv115fs01\misdept\2-MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.vbproj.ResolveComReference.cache
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.exe.config
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.exe
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.pdb
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\bin\Debug\frmPOAcception.xml
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.vbproj.ResolveComReference.cache
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.Resources.resources
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.vbproj.GenerateResource.Cache
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.exe
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.xml
-C:\Users\MYue\Documents\GitHub\Crystal-Reporting\MRP-Development\frmPOAcception\obj\Debug\frmPOAcception.pdb

@@ -12,8 +12,8 @@ Module Module1
     Dim nPoDetailID As Int32
     Dim nPoRecvID As Int32
     Dim nPoMasterID As Int32
-    Dim nPoDetailQty As Single
-    Dim nPoRecvQty As Single
+    Dim fPoDetailQty As Single
+    Dim fPoRecvQty As Single
     Dim strLogFile As String = "\\srv115fs01\misdept\2-MRP-Development\LAC_Alusta_Dev\Input\Log.txt" '"C:\POFile\Log.txt"
     Dim strCSVFileSrc As String = "\\srv115fs01\misdept\2-MRP-Development\LAC_Alusta_Dev\Input" '"C:\POFile"
     Dim strCSVFileDst As String = "\\srv115fs01\misdept\2-MRP-Development\LAC_Alusta_Dev\Input_Archive" '"C:\POFile1"
@@ -27,19 +27,41 @@ Module Module1
     Dim tblDetail As DataTable
     Dim tblRecv As DataTable
     Dim tblRecvDetail As DataTable
+    Dim tblMaster As DataTable
+
+    ''''''test code
+    Dim nSheets As Integer = 0
+    Dim xlApp As New Excel.Application
+    Dim xlSheet As Excel.Worksheet
+    Dim xlBook As Excel.Workbook
+
     Sub Main()
 
+        '''''test code
+        xlApp.Visible = True
+        xlBook = xlApp.Workbooks.Add
+        xlSheet = xlApp.ActiveSheet
+        '''''''''''''
         cDS = New DataSet("POInfo")
         tblFileContent = cDS.Tables.Add("FileContent")
         tblFileContent.Columns.Add("PONo", Type.GetType("System.String"))
         tblFileContent.Columns.Add("PORecvID", Type.GetType("System.Int32"))
+
+        tblRecvDetail = cDS.Tables.Add("PORecvDetail")
+        tblRecvDetail.Columns.Add("PORecvID", Type.GetType("System.Int32"))
+        tblRecvDetail.Columns.Add("PODetailID", Type.GetType("System.Int32"))
+        tblRecvDetail.Columns.Add("POQty", Type.GetType("System.Int32"))
+        tblRecvDetail.Columns.Add("PSlipQty", Type.GetType("System.Int32"))
+        tblMaster = cDS.Tables.Add("POMaster")
+        tblMaster.Columns.Add("POMasterID", Type.GetType("System.Int32"))
+        tblMaster.Columns.Add("POStatusLine", Type.GetType("System.Int32"))
+
+
         tblDetail = cDS.Tables.Add("tblDetail")
         tblDetail.Columns.Add("PODetailID", Type.GetType("System.Int32"))
         tblRecv = cDS.Tables.Add("tblRecv")
         tblRecv.Columns.Add("PORecvID", Type.GetType("System.Int32"))
-        tblRecvDetail = cDS.Tables.Add("PORecvDetail")
-        tblRecvDetail.Columns.Add("PORecvID", Type.GetType("System.Int32"))
-        tblRecvDetail.Columns.Add("PODetailID", Type.GetType("System.Int32"))
+
         GC.Collect()
         SearchFiles(strCSVFileSrc, "*.CSV")
         Dim i As Integer
@@ -60,16 +82,16 @@ Module Module1
                     UpdatePOReceivingStoreProcedure("cspUpdatePORecv", nPORecvID)
                     Dim nPODetailID As Integer
                     Dim k As Integer
-                    For k = 0 To cDS.Tables("tblDetail").Rows.Count - 1
-                        nPODetailID = cDS.Tables("tblDetail").Rows(k).Item(0)
+                    For k = 0 To cDS.Tables("PORecvDetail").Rows.Count - 1
+                        nPODetailID = cDS.Tables("PORecvDetail").Rows(k).Item("PODetailID")
                         ret = QueryPODetailQtyStoreProcedure("gettblPODetailQty", nPODetailID)
                         ret = QueryPORecvQtyStoreProcedure("gettblPORecvQty", nPODetailID)
                         If ret = -1 Then
                             Continue For
                         End If
-                        nPoDetailQty = cDS.Tables("POQty").Rows(0).Item(0)
-                        nPoRecvQty = cDS.Tables("PSlipQty").Compute("SUM(PSlipQty)", String.Empty)
-                        If nPoDetailQty < nPoRecvQty * 0.9 Then
+                        fPoDetailQty = cDS.Tables("POQty").Rows(0).Item(0)
+                        fPoRecvQty = cDS.Tables("PSlipQty").Compute("SUM(PSlipQty)", String.Empty)
+                        If fPoDetailQty < fPoRecvQty * 0.9 Then
                             UpdatePODetailStatusLine("cspUpdatePODetailStatusLine", nPODetailID, "50")
                         Else
                             UpdatePODetailStatusLine("cspUpdatePODetailStatusLine", nPODetailID, "75")
@@ -83,28 +105,36 @@ Module Module1
                         Continue For
                     End If
                     Dim nPOMasterID As Integer
-                    For k = 0 To cDS.Tables("POMasterID").Rows.Count - 1
-                        nPOMasterID = cDS.Tables("POMasterID").Rows(k).Item(0)
+                    For k = 0 To cDS.Tables("POMaster").Rows.Count - 1
+                        nPOMasterID = cDS.Tables("POMaster").Rows(k).Item("POMasterID")
                         QueryPODetailsStatusStoreProcedure("gettblPODetailsStatus", nPOMasterID)
-                        If cDS.Tables("POStatusLine").Rows.Count > 0 Then
+                        If cDS.Tables("POMaster").Rows.Count > 0 Then
                             Dim expression As String
                             expression = "POStatusLine<>99 AND POStatusLine<>75"
                             Dim foundRows() As DataRow
-                            foundRows = cDS.Tables("POStatusLine").Select(expression)
+                            foundRows = cDS.Tables("POMaster").Select(expression)
                             If foundRows.Length = 0 Then
                                 UpdatePOMasterStatus("cspUpdatePOStatusAccepted", nPOMasterID, "")
                             End If
                         End If
                     Next
                     Dim tblCount As Integer = cDS.Tables.Count
-                    While tblCount > 3
+                    While tblCount > 5
                         cDS.Tables.RemoveAt(tblCount - 1)
                         tblCount = tblCount - 1
                     End While
+                    TestData("", cDS)
                     cDS.Tables("tblDetail").Clear()
+                    cDS.Tables("PORecvDetail").Clear()
+                    cDS.Tables("POMaster").Clear()
                 Next
                 MoveFile(strFileCSV(i), strCSVFileDst)
                 cDS.Tables("FileContent").Clear()
+
+                ''''Test code
+                xlBook.SaveAs("c:\" & Format(Now, "yyyy-MM-dd hh_mm_ss") & ".xls")
+                xlBook.Close()
+                xlApp.Quit()
 
             End If
         Next
@@ -176,12 +206,13 @@ Module Module1
             par11.Value = nPORecvID
             da.SelectCommand.Parameters.Add(par11)
             da.Fill(cDS.Tables("tblDetail"))
-            da.Fill(cDS.Tables("PORecvDetail"))
             If cDS.Tables("tblDetail").Rows.Count = 0 Then
                 ret = -1
                 WriteLogFile(strLogFile, "PORecvID = " & Format(nPORecvID) & ", return DetailID is NULL ")
                 Return ret
             End If
+            da.Fill(cDS.Tables("PORecvDetail"))
+            tblRecvDetail.Rows(0).Item("PORecvID") = nPORecvID
             cmdSQLCommand.Dispose()
             da.Dispose()
         Catch ex As Exception
@@ -224,6 +255,8 @@ Module Module1
                 WriteLogFile(strLogFile, "PONo = " & Format(nPONo) & ", return POMasterID is NULL ")
                 Return ret
             End If
+            da.Fill(cDS.Tables("POMaster"))
+
             cmdSQLCommand.Dispose()
             da.Dispose()
         Catch ex As Exception
@@ -260,11 +293,24 @@ Module Module1
             da.SelectCommand.Parameters.Add(par11)
             cDS.Tables.Add("POQty")
             da.Fill(cDS.Tables("POQty"))
+
             If cDS.Tables("POQty").Rows.Count = 0 Then
                 ret = -1
                 WriteLogFile(strLogFile, "PODetailID = " & Format(nPODetailID) & ", return POQty is NULL ")
                 Return ret
             End If
+
+            Dim i As Int32
+            'cDS.Tables("PORecvDetail").Columns.Add("POQty")
+
+            For i = 0 To cDS.Tables("POQty").Rows.Count - 1
+                If cDS.Tables("PORecvDetail").Rows.Count < cDS.Tables("POQty").Rows.Count Then
+                    Dim rw As DataRow = cDS.Tables("PORecvDetail").NewRow
+                    cDS.Tables("PORecvDetail").Rows.Add(rw)
+                End If
+                cDS.Tables("PORecvDetail").Rows(i).Item("POQty") = cDS.Tables("POQty").Rows(i).Item("POQty")
+            Next
+
             cmdSQLCommand.Dispose()
             da.Dispose()
 
@@ -306,6 +352,17 @@ Module Module1
                 WriteLogFile(strLogFile, "PODetailID = " & Format(nPODetailID) & ", return PSlipQty is NULL ")
                 Return ret
             End If
+
+            Dim i As Int32
+            'cDS.Tables("PORecvDetail").Columns.Add("PSlipQty")
+
+            For i = 0 To cDS.Tables("PSlipQty").Rows.Count - 1
+                If cDS.Tables("PORecvDetail").Rows.Count < cDS.Tables("PSlipQty").Rows.Count Then
+                    Dim rw As DataRow = cDS.Tables("PORecvDetail").NewRow
+                    cDS.Tables("PORecvDetail").Rows.Add(rw)
+                End If
+                cDS.Tables("PORecvDetail").Rows(i).Item("PSlipQty") = cDS.Tables("PSlipQty").Rows(i).Item("PSlipQty")
+            Next
             cmdSQLCommand.Dispose()
             da.Dispose()
 
@@ -343,6 +400,17 @@ Module Module1
             da.SelectCommand.Parameters.Add(par11)
             cDS.Tables.Add("POStatusLine")
             da.Fill(cDS.Tables("POStatusLine"))
+
+            Dim i As Int32
+            'cDS.Tables("POMaster").Columns.Add("POStatusLine")
+
+            For i = 0 To cDS.Tables("POStatusLine").Rows.Count - 1
+                If cDS.Tables("POMaster").Rows.Count < cDS.Tables("POStatusLine").Rows.Count Then
+                    Dim rw As DataRow = cDS.Tables("POMaster").NewRow
+                    cDS.Tables("POMaster").Rows.Add(rw)
+                End If
+                cDS.Tables("POMaster").Rows(i).Item("POStatusLine") = cDS.Tables("POStatusLine").Rows(i).Item("POStatusLine")
+            Next
             cmdSQLCommand.Dispose()
             da.Dispose()
 
@@ -531,31 +599,49 @@ Module Module1
         '    excel.quit()
         '    excel = Nothing
         'End If
-        Dim i1 As Integer, intCol As Integer, intRow As Integer
-        Dim xlApp As New Excel.Application
-        Dim xlSheet As Excel.Worksheet
-        Dim xlBook As Excel.Workbook
 
-        Dim strName As String, strArray1() As String
-        Dim strS1 As String
-        Dim strD1 As String
+        xlBook.Sheets.Add(After:=xlBook.Sheets(xlBook.Sheets.Count))
+        xlApp.ScreenUpdating = True     ' Enables screen refreshing.
 
-        xlApp.Visible = True
-        xlBook = xlApp.Workbooks.Add
-        xlSheet = xlApp.ActiveSheet
+        nSheets = nSheets + 1
+        xlSheet = xlBook.Sheets(nSheets)
 
-        xlSheet.Range(xlSheet.Cells(1, 1), xlSheet.Cells(80, 80)).NumberFormat = "@" '文本格式  
-
-        For i = 0 To 10 '标题  
-            intRow = 1 + i * 7 + 1
-            xlSheet.Cells(1, intRow) = "分钟累积"
-            xlSheet.Cells(1, intRow + 1) = "结束时间"
+        Dim rw As Int32
+        Dim cl As Int32
+        Dim dt As DataTable
+        dt = ds.Tables("PORecvDetail")
+        For rw = 0 To dt.Rows.Count
+            For cl = 0 To dt.Columns.Count - 1
+                If rw = 0 Then
+                    xlSheet.Cells(rw + 1, cl + 1) = dt.Columns(cl).ColumnName
+                Else
+                    xlSheet.Cells(rw + 1, cl + 1) = dt.Rows(rw - 1).Item(cl)
+                End If
+            Next
         Next
 
-        xlBook.SaveAs("c:\" & Format(Now, "yyyy-MM-dd hh_mm_ss") & ".xls")
-        xlBook.Close()
 
-        xlApp.Quit()
+        xlBook.Sheets.Add(After:=xlBook.Sheets(xlBook.Sheets.Count))
+        xlApp.ScreenUpdating = True     ' Enables screen refreshing.
+        nSheets = nSheets + 1
+        xlSheet = xlBook.Sheets(nSheets)
+        dt = ds.Tables("POMaster")
+        For rw = 0 To dt.Rows.Count
+            For cl = 0 To dt.Columns.Count - 1
+                If rw = 0 Then
+                    xlSheet.Cells(rw + 1, cl + 1) = dt.Columns(cl).ColumnName
+                Else
+                    xlSheet.Cells(rw + 1, cl + 1) = dt.Rows(rw - 1).Item(cl)
+                End If
+            Next
+        Next
+        dt.Dispose()
+        
+
+        'xlBook.SaveAs("c:\" & Format(Now, "yyyy-MM-dd hh_mm_ss") & ".xls")
+        'xlBook.Close()
+
+        'xlApp.Quit()
 
 
     End Function
